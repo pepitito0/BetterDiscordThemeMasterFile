@@ -485,27 +485,7 @@ e075ba7….css:682
 .inner-ptMwR- .rtc-connection-status-connected {
     color: #ff0000;
 }
-.button-3WJ5FX {
-    -ms-flex-align: center;
-    -ms-flex-pack: center;
-    -webkit-box-align: center;
-    -webkit-box-pack: center;
-    align-items: center;
-    background: transparent no-repeat 50% 50%;
-    background-size: 18px 18px;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    height: 32px;
-    justify-content: center;
-    opacity: 1;
-    padding: 0;
-    position: relative;
-    width: 32px;
-}
+
 .button-1aU9q1 {
     -ms-flex-align: center;
     -ms-flex-pack: center;
@@ -545,14 +525,7 @@ e075ba7….css:682
     text-overflow: ellipsis;
     white-space: nowrap;
 }
-.button-3WJ5FX:hover {
-    background-color: transparent;
-    opacity: 1;
-}
-.button-1aU9q1:hover {
-    background-color: transparent;
-    opacity: 1;
-}
+
 /*Animations*/
 .container-iksrDt .button-1aU9q1 svg:hover {
    
@@ -625,18 +598,6 @@ e075ba7….css:682
     font-weight: 700;
     text-transform: uppercase;
 }
-a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
-    border: 0;
-    font-family: inherit;
-    font-size: 100%;
-    font-style: inherit;
-    font-weight: inherit;
-    margin: 0;
-    outline: 0;
-    padding: 0;
-    vertical-align: baseline;
-    color: white;
-}
 .member-roles .member-role {
     background-color: #d49911;
     border: 1px solid #ff0000;
@@ -687,18 +648,6 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
     overflow: visible;
     padding-left: 213px;
     padding-right: 20px;
-}
-a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
-    border: 0;
-    font-family: inherit;
-    font-size: 100%;
-    font-style: inherit;
-    font-weight: inherit;
-    margin: 0;
-    outline: 0;
-    padding: 0;
-    vertical-align: baseline;
-    color: white;
 }
 #user-profile-modal .actions .btn.add-friend {
     background: #faa61a;
@@ -776,17 +725,8 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 .itemBrand-mC9YR4 {
     color: #cc1414;
 }
-element.style {
-    border-color: rgb(216, 179, 30);
-    background-color: rgba(255, 0, 0, 0.48);
-    padding: 10px;
-}
 .theme-dark .bar-2cFRGz {
     background: #fbb848;
-}
-element.style {
-    background: rgb(187, 68, 64);
-    width: 48%;
 }
 div[class*="switchEnabled"][class*=valueChecked] {
     background-color:#ea9c1b !Important;
@@ -831,11 +771,7 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
     background: #a90000;
     height: 100%;
 }
-class="item-2zi_5J marginBottom8-1mABJ4 horizontal-2VE-Fw flex-3B1Tl4 directionRow-yNbSvJ cardPrimaryEditable-2IQ7-V card-3DrRmC" {
-    border-color: rgb(251, 184, 72);
-    background-color: rgba(255, 0, 0, 0.33);
-    padding: 10px;
-}
+
 .buttonBrandFilledDefault-2Rs6u5:hover {
     background-color: rgba(243, 2, 2, 0.51);
 }
@@ -865,13 +801,11 @@ class="item-2zi_5J marginBottom8-1mABJ4 horizontal-2VE-Fw flex-3B1Tl4 directionR
     background-color: #d00202;
     color: #fff;
 }
-class="item-2zi_5J marginBottom8-1mABJ4 horizontal-2VE-Fw flex-3B1Tl4 directionRow-yNbSvJ cardPrimaryEditable-2IQ7-V card-3DrRmC" {
-	border-color: rgb(251, 184, 72);
-    background-color: rgba(255, 0, 0, 0.43);
-    padding: 10px;
+.itemBrandSelected-3LxxzT {
+    background-color: #f3ab1a;
+    color: #fff;
 }
-class="barFill-18ABna" {
-	background: rgb(169, 0, 0);
-    width: 50.3077%;
+#bd-settings-sidebar .ui-tab-bar-item.selected {
+    color: #fff;
+    background-color: #f3ab1a;
 }
-
