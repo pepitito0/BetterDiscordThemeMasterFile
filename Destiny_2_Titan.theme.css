@@ -104,7 +104,7 @@
     background-color: #1e2124;
     border-color: #ff0000;
 }
-.message-group .mentioned .message-text:after {
+.message-group .#ed .message-text:after {
     background: rgb(250, 26, 26);
     border-left: 4px solid #ff0000;
     border-radius: 2px 0 0 2px;
@@ -134,9 +134,12 @@
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
-html, span:not(.spinner-item)
-{
-    backface-visibility: hidden ;
+.bd-blue .mention {
+    color: #ff0000;
+}
+html, span:not(.spinner-item) {
+
+    backface-visibility: hidden;
 }
 .nameHoveredText-2FFqiz {
     color: #ffffff;
@@ -657,7 +660,7 @@ e075ba7….css:682
 .header-toolbar button:hover  {
    animation: shake .5s;
    animation-iteration-count: 1;
-animation-timing-function: linear;} 
+animation-timing-function: linear; 
 }
 
 /*tooltip*/
