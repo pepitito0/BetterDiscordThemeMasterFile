@@ -580,8 +580,8 @@ e075ba7….css:682
 100% {font-size: 18px;}
 }
 .guilds-wrapper .guilds .guild .avatar-small:hover {
-   animation: square-to-circle 2s .5s infinite cubic-bezier(1,.015,.295,1.225) alternate;
-   animation-direction: reverse;
+   animation: square-to-circle 2s .5s infinite cubic-bezier(1,.015,.295,1.225);
+   animation-direction: alternate;
    }
 .guilds-wrapper .guilds .guild .avatar-small {
     background-repeat: no-repeat;
