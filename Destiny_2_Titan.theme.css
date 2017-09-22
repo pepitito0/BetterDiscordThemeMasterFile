@@ -1109,6 +1109,6 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
    animation-timing-function: linear;
  }
 .unread-23Kvxk {
-    background-color: transparent;    
+    background-color: rgba(255, 0, 0, 0.3);    
 }
 
