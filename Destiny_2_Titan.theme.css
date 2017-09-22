@@ -1051,4 +1051,64 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
     background: #f04747;
     opacity: 1;
 }
+/*v1.3.1*/
+.avatarNormal-3luwna {
+    border-color: #d49911;
+}
+.headerStreaming-3F-wjT {
+    background: url(https://i.imgur.com/ReABrfX.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.avatarStreaming-1ZydJV {
+    border-color: #581dbd;
+}
+.header-3mZJcV .avatarStatusStreaming-3lGjGk {
+    border-color: #593695;
+}
+.itemBrandSelected-3LxxzT {
+    background-color: #e20c0c;
+    color: #fff;
+}
+.buttonGreenFilled-6QHNrw {
+    color: #fff;
+    background-color: #e20c0c;
+}
+.premium-settings .premium-header .premium-free-months {
+    color: #e20c0c;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: .26px;
+    line-height: 20px;
+}
+.iconMuted-Hb4ttQ, .nameMuted-1n0LSj {
+    color: rgba(79, 84, 92, 0);
+}
+
+.iconMuted-Hb4ttQ, .nameMuted-1n0LSj {
+    color: transparent;  
+}
+.containerDefault-1bbItS {
+    padding-top: 10px;
+}
+.iconMuted-Hb4ttQ, .nameMuted-1n0LSj {
+    color: transparent;  
+}
+.wrapperMuted-PmsxPn{
+    height:1px;
+}
+.message-group .mentioned .message-text:after {
+    background: rgb(246, 1, 2);
+    border-left: 4px solid #f60102;
+}
+.contentUnreadText-3oxASB {
+  animation-name: rgb;
+   animation-duration:4000ms;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+ }
+.unread-23Kvxk {
+    background-color: transparent;    
+}
 
