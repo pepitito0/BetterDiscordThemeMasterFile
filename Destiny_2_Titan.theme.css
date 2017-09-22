@@ -1,4 +1,4 @@
-//META{"name":"Destiny_2_Titan","description":"A_theme_based_on_the_stating_Titan_from_Destiny_2","author":"xNightWulf","version":"v1.4"}*//{}
+//META{"name":"Destiny_2_Titan","description":"A_theme_based_on_the_stating_Titan_from_Destiny_2","author":"xNightWulf","version":"v1.3"}*//{}
 
 /* Background */
 .app {
@@ -1052,4 +1052,8 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
 .theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
     background: #f04747;
     opacity: 1;
+}
+.scroller-NXV0-d {
+    padding-bottom: 20px;
+    background: rgba(255, 0, 0, 0);
 }
