@@ -3,6 +3,8 @@ Destiny 2 Titan Theme v1.1
 
 Changelog
 
+v1.3.3: Changed the color of text in server settings so it is now readable. Rounded the corners of the backgrounds behind chat messages, added a color to the border of the background behind chat messages and also added a transition when it is hovered. Made the # and the speaker icons next to channels more visable.
+
 v1.3.2: Made text in server settings more visable, change the "#" and speaker icons next to channels to be easily seen. Rounded the corners on the chat message background, added a border color and added a transition when hovering over chat messages.
 
 v1.3.1: Added images for the user popout when people are streaming, changed ring color around profile pic in user popout when streaming.
