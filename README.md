@@ -3,6 +3,8 @@ Destiny 2 Titan Theme v1.1
 
 Changelog
 
+v1.3.2: Made text in server settings more visable, change the "#" and speaker icons next to channels to be easily seen. Rounded the corners on the chat message background, added a border color and added a transition when hovering over chat messages.
+
 v1.3.1: Added images for the user popout when people are streaming, changed ring color around profile pic in user popout when streaming.
 Made it so muted channel catagories are no longer visible (hover in the place and you can find it again) Animated the channel container when there is an unread message. Changed color of background when the Discord Nitro setting is selected.
 
