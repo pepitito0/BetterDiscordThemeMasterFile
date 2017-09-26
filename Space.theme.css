@@ -428,3 +428,147 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
 .theme-dark .search-results-wrap {
     background-color: rgba(0, 164, 255, 0.26);
 }
+
+/*v1.1*/
+.headerNormal-1cioxU {
+    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-size:cover !important;
+}
+.headerNormal-1cioxU {
+    background: transparent;
+
+}
+.body-3rkFrF {
+    background-color: #2a2e47;
+    border-bottom: 1px solid #dcddde;
+    padding: 10px;
+}
+.footer-2J5zqP {
+    background-color: #2a2e47;
+    padding: 10px;
+}
+#user-profile-modal .header:after {
+    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-size:cover !important;
+}
+#user-profile-modal .avatar-wrapper {
+    background-color: rgba(255, 255, 255, 0);
+    left: 40px;
+    position: absolute;
+    top: 40px;
+}
+#user-profile-modal .tab-bar-container {
+    -ms-flex-align: center;
+    -ms-flex-direction: row;
+    -ms-flex-pack: justify;
+    -webkit-box-align: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: justify;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
+    align-items: center;
+    background-color: #211b3c;
+    border-bottom: 1px solid #f0f0f0;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.1);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: visible;
+    padding-left: 213px;
+    padding-right: 20px;
+}
+#user-profile-modal .header .header-info .header-info-inner .discord-tag .discriminator {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+#user-profile-modal .header .header-info .header-info-inner .activity {
+    color: #000000;
+    font-size: 14px;
+    line-height: 16px;
+    padding-top: 4px;
+    width: 250px;
+}
+.avatarNormal-3luwna {
+    border-color: #00a8f8;
+}
+.chat .new-messages-bar {
+    -webkit-transition: background-color .2s;
+    background-color: rgb(0, 172, 255);
+    border-radius: 0 0 3px 3px;
+    color: #fff;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-weight: 400;
+    left: 20px;
+    position: absolute;
+    right: 20px;
+    text-transform: capitalize;
+    top: 0;
+    transition: background-color .2s;
+    z-index: 2;
+}
+.chat .new-messages-bar button:last-child {
+    -webkit-transition: color .2s;
+    color: #ffffff;
+    font-size: 12px;
+    text-transform: uppercase;
+    transition: color .2s;
+}
+.bot-tag {
+    -ms-flex-negative: 0;
+    background: #00adff;
+    border-radius: 3px;
+    color: #fff!important;
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-left: 6px;
+    padding: 1px 2px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+#user-profile-modal .actions .btn.add-friend:hover {
+    background: #0070ff;
+}
+
+#user-profile-modal .actions .btn.add-friend {
+    background: #0087ff;
+}
+.channel-members .member .member-activity {
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+}
+.inner-ptMwR- .channel-3YGMy1 {
+    color: #fff;
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
+    margin-right: 10px;
+    margin-top: 4px;
+    opacity: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://i.imgur.com/Cl7FFZk.png);
+    background-size:cover;
+
+}
+
+.guilds-wrapper .guilds .guild .guild-inner {
+    background: rgba(47, 49, 54, 0) !important;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 50px;
+    overflow: hidden;
+    text-align: center;
+}
