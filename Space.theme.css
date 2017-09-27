@@ -715,3 +715,9 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
     overflow: hidden;
     text-align: center;
 }
+.container-hidden .nameDefaultText-QoumjC {
+color:red !important;
+text-decoration:line-through;
+font-weight:bold!important;
+}
+
