@@ -868,3 +868,90 @@ right: 15px;
     background-color: #24887f;
     color: #fff;
 }
+
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    background: -webkit-linear-gradient(90deg, #BF70ED 5%, #00FFEE 100%);
+    color: #F00;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    letter-spacing: 1px;
+     -webkit-box-reflect :below -39px -webkit-gradient(linear, left top, left bottom,  from(transparent), color-stop(55%, transparent), to(rgba(255, 255, 255, 0.47)));
+}
+.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
+    background: -webkit-linear-gradient(90deg, #8F46B9 5%, #28938C 100%);
+    color: #F00;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    letter-spacing: 1px;
+     -webkit-box-reflect :below -39px -webkit-gradient(linear, left top, left bottom,  from(transparent), color-stop(55%, transparent), to(rgba(255, 255, 255, 0.47)));
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    background: -webkit-linear-gradient(90deg, #8F46B9 5%, #28938C 100%);
+    color: #F00;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    letter-spacing: 1px;
+     -webkit-box-reflect :below -39px -webkit-gradient(linear, left top, left bottom,  from(transparent), color-stop(55%, transparent), to(rgba(255, 255, 255, 0.47)));
+}
+.nameHoveredText-2FFqiz  {
+    background: -webkit-linear-gradient(90deg, #8F46B9 5%, #28938C 100%);
+    color: #F00;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    letter-spacing: 1px;
+     -webkit-box-reflect :below -39px -webkit-gradient(linear, left top, left bottom,  from(transparent), color-stop(55%, transparent), to(rgba(255, 255, 255, 0.47)));
+}
+.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
+    color: rgb(40, 147, 140);
+    background: linear-gradient(rgb(35, 21, 43), rgb(48, 31, 54)) !important;
+    text-transform: Capitalize;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    border-radius: 65px !important;
+    padding-right: 1px !important;
+    padding-left: 1px !important;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 0.3px 0.3px 20px #00e9ff;
+}
+.theme-dark .channel-members h2 {
+    color: rgb(38, 150, 144);
+    font-weight: bold;
+    background: linear-gradient(rgb(35, 21, 43), rgb(48, 31, 54)) !important;
+    text-align: center;
+    border-radius: 100px;
+    position: relative;
+    left: 10px;
+    padding: 10px;
+    padding-right: 10px;
+    width: 190px;
+}
+.nameHoveredVoice-TIoHRJ {
+    background: -webkit-linear-gradient(90deg, #8F46B9 5%, #28938C 100%);
+    color: #F00;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    letter-spacing: 1px;
+     -webkit-box-reflect :below -39px -webkit-gradient(linear, left top, left bottom,  from(transparent), color-stop(55%, transparent), to(rgba(255, 255, 255, 0.47)));
+}
