@@ -555,7 +555,7 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
 
 /*PopOuts*/
 .theme-dark .themed-popout .header {
-    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
     background-size:cover !important;
 }
 .theme-dark .themed-popout {
@@ -591,7 +591,7 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
     padding: 10px;
 }
 #user-profile-modal .header:after {
-    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
     background-size:cover !important;
 }
 #user-profile-modal .avatar-wrapper {
@@ -792,7 +792,7 @@ font-weight:bold!important;
     margin-left: 7.5px !important;
 } 
 .upload-modal {
-    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
     background-size:cover !important;
 }
 .upload-modal .footer {
@@ -853,7 +853,7 @@ font-weight:bold!important;
 right: 15px;
 }
 .theme-dark #friends .friends-table .friends-row:hover {
-    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
     background-size:cover !important;
 }
 .theme-dark #friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary {
