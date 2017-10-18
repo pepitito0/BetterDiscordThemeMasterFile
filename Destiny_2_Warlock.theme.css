@@ -1,5 +1,8 @@
 //META{"name":"Destiny_2_Warlock","description":"A_theme_based_on_the_starting_Warlock_from_Destiny_2","author":"xNightWulf","version":"1.0"}*//{}
 
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
 /* Background */
 .app {
     background-image: url(https://i.imgur.com/O5pRWXG.jpg) !Important; 
