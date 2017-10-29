@@ -476,3 +476,10 @@ top:80px;left:115px;width:150px;display:flex!important;}
 .theme-dark .iconForeground-2c7s3m, .theme-dark .title-2Ul_Rx {
     color: grey;
 }
+.message-group .mentioned .message-text:after {
+    background: rgba(138, 138, 138, 0.2);
+    border-left: 4px solid #6b6b6b;
+}
+.theme-dark .message-group .mentioned .message-text {
+    background: rgba(150, 149, 148, 0.1);
+}
