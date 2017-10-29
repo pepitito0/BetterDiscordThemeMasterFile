@@ -483,3 +483,14 @@ top:80px;left:115px;width:150px;display:flex!important;}
 .theme-dark .message-group .mentioned .message-text {
     background: rgba(150, 149, 148, 0.1);
 }
+.mentioned .mention:hover {
+    background: transparent!important;
+    color: #3c3c3c;
+}
+.mention {
+    background: transparent;
+    color: #ffffff;
+}
+.theme-dark .message-group .comment .markup .mention {
+    background-color: rgba(115,139,215,.1) !important;
+}
