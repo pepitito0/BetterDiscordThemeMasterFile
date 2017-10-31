@@ -96,23 +96,23 @@
 .search-popout .results-group:before {
     border-top: 1px solid rgb(20, 22, 23);
 }
-.bda-dark .emoji-picker {
+.emoji-picker {
     background-color: #1f2123;
 }
-.bda-dark .emoji-picker .category {
+.emoji-picker .category {
     background-color: #1f2123;
 }
-.bda-dark .emoji-picker .header .search-bar {
+.emoji-picker .header .search-bar {
     background-color: #1f2123;
 }
 .search-bar.search-bar-light .search-bar-inner {
     background-color: rgba(68, 70, 72, 0.3);
 }
-.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
+.emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
     background-color: #1f2123 !important;
     border-color: #1f2123 !important;
 }
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb, .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb {
+#bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb, .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb {
     border-color: #191a1b !important;
     background-color: #191a1b !important;
 }
