@@ -96,6 +96,24 @@
 .search-popout .results-group:before {
     border-top: 1px solid rgb(20, 22, 23);
 }
+.bda-dark .emoji-picker {
+    background-color: #1f2123 !important;
+}
+.bda-dark .emoji-picker .header .search-bar {
+    background-color: #1f2123 !important;
+}
+.bda-dark .emoji-picker .category {
+    background-color: #1f2123 !important;
+}
+.emoji-picker .category {
+color: grey !important;
+}
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
+background-color:transparent !important;
+}
+.bda-dark .emoji-picker .scroller .emoji-item.selected {
+    background: rgba(123, 123, 123, 0);
+}
 .scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
     background-clip: none !important; 
     background-color: none !important;    
