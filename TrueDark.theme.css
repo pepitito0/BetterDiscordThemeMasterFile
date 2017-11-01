@@ -117,7 +117,6 @@ background-color:transparent !important;
 .scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
     background-clip: none !important; 
     background-color: none !important;    
-    border: none !important;  
     border-radius: none !important; 
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
