@@ -725,19 +725,15 @@ background:#7e0fe4 !important;
   }
   25%  {
     border-radius:50% 0 0 0;
-    transform:rotate(5deg);
   }
   50%  {
     border-radius:50% 50% 20% 20%;
-    transform:rotate(-10deg);
   }
   75%  { 
     border-radius:50% 50% 50% 20%;
-    transform:rotate(10deg);
   }
   100% {  
     border-radius:50%;
-    transform:rotate(-5deg);
   }
 }
 .header-toolbar button:hover  {
