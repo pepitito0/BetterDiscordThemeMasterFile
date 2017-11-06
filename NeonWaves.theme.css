@@ -855,6 +855,7 @@ animation-timing-function: linear;
     flex-shrink: 0!important;
     -webkit-flex-shrink: 0!important;
     text-shadow: rgba(0, 0, 0, 0.4) 1px 1px 1px!important;
+    line-height:16px!important;
 }
 .avatarSpeaking-3teDH6, .avatarDefault-3jtQoc, .avatarContainer-303pFz {
     border-color: transparent !important;
