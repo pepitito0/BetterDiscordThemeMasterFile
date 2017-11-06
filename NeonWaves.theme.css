@@ -15,6 +15,41 @@
 }
 
 /*Stuff*/
+.iconHovered-3PRzOR, .iconHoveredCollapsed-jNYgOD, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+.theme-dark .message-group .comment .markup {
+    color: hsl(0, 0%, 100%);
+}
+.theme-dark .message-group a {
+    color: #ff00e9;
+}
+.bd-blue .mention {
+    color: #ff00f5;
+}
+.theme-dark .message-group .comment .markup .mention:hover {
+    background-color: rgba(128, 25, 222, 0.7);
+}
+.message-group .mentioned .message-text:after {
+    background: rgba(239, 0, 255, 0.2);
+    border-left: 4px solid #e400ff;
+    border-radius: 2px 0 0 2px;
+    bottom: 0;
+    content: " ";
+    left: -6px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+}
+.theme-dark .message-group .mentioned .message-text {
+    background: rgba(110, 0, 255, 0.19);
+}
+.bd-blue .mentioned .mention:hover {
+    color: #da00ff;
+}
 .contentSelectedText-3j5CXt {
     background-image: url(https://i.imgur.com/m8KAszh.jpg) !Important; 
     background-size:cover!important;
