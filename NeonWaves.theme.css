@@ -864,6 +864,6 @@ animation-timing-function: linear;
     opacity: 0.5;
     z-index: -1;
 }
-.typeWindows-15E0Ys, titleBar-3_fDwJ horizontalReverse-k5PqxT flex-3B1Tl4 directionRowReverse-2eZTxP justifyStart-2yIZo0 alignStretch-1hwxMa { 
-    margin: 0px !important;
+.typeWindows-15E0Ys, .titleBar-3_fDwJ .horizontalReverse-k5PqxT .flex-3B1Tl4 .directionRowReverse-2eZTxP .justifyStart-2yIZo0 .alignStretch-1hwxMa  {
+  margin: 0px !important;
 }
