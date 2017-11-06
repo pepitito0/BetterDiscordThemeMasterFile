@@ -13,10 +13,7 @@
     background-image: url(https://i.imgur.com/DmSmER7.jpg) !Important; 
     background-size:cover !important;
 }
-/*Change The 0.3 To Change The Brightness (Closer To 0 Makes It Lighter, Closer To 1 Makes It Darker */
-.layers {
-    background: rgba(0,0,0,0.3)!important;
-}
+
 /*Stuff*/
 .contentSelectedText-3j5CXt {
     background-image: url(https://i.imgur.com/m8KAszh.jpg) !Important; 
