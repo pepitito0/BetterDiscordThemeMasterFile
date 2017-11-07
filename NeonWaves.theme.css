@@ -115,7 +115,7 @@ background: transparent;
     background-color: rgb(161, 31, 190);
 }
 .bot-tag {
-    background: #a11087;
+    background: #a11087!important;
 }
 .embed-color-pill {
     background: #a11087 !important;
