@@ -1135,3 +1135,25 @@ animation-timing-function: linear;
 	
 	--des-default:		"Not defined";
 }
+.theme-dark .activityFeed-HeiGwL {
+    background-color: rgba(54, 57, 63, 0);
+}
+.theme-dark .activity-3tgXuD {
+    background-color: rgba(14, 81, 216, 0.35);
+    border-color: #2f3136;
+    color: #f6f6f7;
+}
+.theme-dark .header-34ZDfM {
+    background-color: rgb(19, 19, 19);
+    border-bottom-color: #2f3136;
+}
+.theme-dark .content-1RjmSK {
+    background-color: rgba(47, 49, 54, 0.15);
+    color: #b9bbbe;
+}
+.theme-dark .newsIconCircle-2mzNOD {
+    background-color: #6211ce;
+}
+.theme-dark .playTime-1sIPBr {
+    color: #ffffff;
+}
