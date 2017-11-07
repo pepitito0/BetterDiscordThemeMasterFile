@@ -22,14 +22,14 @@
     color: white;
 }
 .guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://i.imgur.com/qDvTIYJ.png), linear-gradient(135deg, #b62ded 22%,#b62ded 22%,#b62ded 40%,#b62ded 40%,#b62ded 40%,#3162f7 99%)!important;
+    background-image: url(https://i.imgur.com/GChUQAv.png)!important;
     background-size: !important;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 42px 48px;
     height: 50px;
     width: 50px;
-    background-color:#9712b8;
+    background-color:none;
     opacity: 1;
 }
 ::selection {
@@ -173,26 +173,6 @@ background: rgba(0,0,0,0.4)!important;
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
     background-color: #ab11c8;
     border-color: #36393e;
-}
-.guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://i.imgur.com/DmSmER7.jpg);
-    background-size:cover !important;
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-size: 42px 48px;
-    height: 50px;
-    width: 50px;
-    background-color:#9712b8;
-}
-.guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://i.imgur.com/DmSmER7.jpg);
-    background-size:cover !important;
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-size: 42px 48px;
-    height: 50px;
-    width: 50px;
-    background-color:#9712b8;
 }
 .private-channels .channel.selected a{
     background-image: url(https://i.imgur.com/m8KAszh.jpg) !Important; 
