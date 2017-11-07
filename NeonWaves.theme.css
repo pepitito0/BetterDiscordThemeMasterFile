@@ -1139,3 +1139,7 @@ animation-timing-function: linear;
 }
 [class="guild-inner"] {
 background: transparent !important;
+}
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: #ffffff;
+}
