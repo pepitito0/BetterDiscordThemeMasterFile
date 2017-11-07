@@ -24,7 +24,12 @@
 ::selection {
   background: rgb(161, 20, 194);
 }
-
+.private-channels header {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
 .theme-dark .friends-table .messages .divider:not(.red) div, .theme-dark .messages-wrapper .messages .divider:not(.red) div {
     background: #c200ff;
     border-bottom: 1px solid #c200ff;
