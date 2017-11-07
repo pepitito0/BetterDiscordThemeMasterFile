@@ -21,6 +21,10 @@
     font-size: 18px;
     color: white;
 }
+::selection {
+  background: rgb(161, 20, 194);
+}
+
 .theme-dark .friends-table .messages .divider:not(.red) div, .theme-dark .messages-wrapper .messages .divider:not(.red) div {
     background: #c200ff;
     border-bottom: 1px solid #c200ff;
