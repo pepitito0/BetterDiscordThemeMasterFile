@@ -816,3 +816,22 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
 .theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {
     color: rgb(29, 114, 191) !important;
 }
+#friends .friends-table .friends-row {
+    background: rgba(0, 0, 0, 0.2)!important;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)!important;
+    border-radius: 5px!important;
+    margin: 15px!important;
+    padding: 0!important;
+    height: 120px!important;
+    flex-direction: column!important;
+    flex-basis: 300px!important;
+    transition: opacity 300ms!important;
+    white-space: nowrap!important;
+    width: 320px!important;
+    display: inline-block!important;
+    justify-content: center!important;
+    align-items: center !important;
+    justify-content:center!important;
+    position:relative!important;
+    flex-direction:column!important;
+}
