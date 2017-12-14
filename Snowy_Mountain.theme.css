@@ -1,4 +1,4 @@
-//META{"name":"Snowy_Mountain","description":"A_Snowy_Mountain_Theme","author":"xNightWulf","version":"1.0"}*//{}
+//META{"name":"Snowy_Mountain","description":"A_Snowy_Mountain_Theme","author":"xNightWulf","version":"1.0.1"}*//{}
 
 /*Transparency*/
 #voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, 
@@ -1567,4 +1567,59 @@ margin-right: -2px;
 }
 .theme-dark .channel-members-loading .background {
     background-image: linear-gradient(90deg,rgba(211, 4, 236, 0.19),rgba(113, 7, 193, 0.2),rgba(228, 12, 192, 0.19));
+}
+.icon-1NXYub {
+    opacity: 1;
+}
+.icon-33Frxe {
+    opacity: 1;
+}
+.nameDefault-1I0lx8 {
+    font-size: medium;
+    font-weight: 700;
+}
+.iconInactive-WWHQEI:hover  {
+   animation: shake .5s;
+   animation-iteration-count: 1;
+animation-timing-function: linear; 
+}
+.chat .new-messages-bar {
+    background-color: rgba(136, 11, 199, 0.9);
+}
+.cm-s-material.CodeMirror {
+    background-color: rgba(120, 7, 206, 0.32)!important;
+    color: rgba(233,237,237,1);
+}
+.cm-s-material .CodeMirror-guttermarker, .cm-s-material .CodeMirror-guttermarker-subtle, .cm-s-material .CodeMirror-linenumber {
+    color: #ec0cd9;
+}
+.cm-s-material .CodeMirror-guttermarker, .cm-s-material .CodeMirror-guttermarker-subtle, .cm-s-material .CodeMirror-linenumber {
+    color: #ec0cd9;
+    background-color: rgba(120, 7, 206, 0.32)!important;
+}
+.content-region .CodeMirror, .content-region .cm-s-material .CodeMirror-gutters, #bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters {
+    background: rgba(41, 43, 47, 0) !important;
+}
+.content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: rgba(121, 12, 218, 0.61);
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+    background: #a20bd2;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: #d809d0;
+}
+.bd-blue .checkbox .checkbox-inner input[type=checkbox]:checked+span {
+    background-color: #e8099c;
+    border-color: #950ae6;
+}
+#bd-settings-sidebar .ui-tab-bar-header {
+    font-size: 14px;
+    font-weight: 600;
+}
+#bd-settings-sidebar .ui-tab-bar-item {
+    color: #ffffff;
+}
+.theme-dark .chat .jump-to-present-bar {
+    background: rgba(121, 12, 218, 1);
 }
