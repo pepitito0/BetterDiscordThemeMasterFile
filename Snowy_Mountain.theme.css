@@ -1676,3 +1676,37 @@ animation-timing-function: linear;
     background-color: rgba(0, 0, 0, 0.12);
     border-radius: 5px;
 }
+@keyframes glowpulse {
+    50%{
+    border: 4px solid rgb(6, 76, 239);
+    background-color: #2780e6;}
+    100%{
+    Border: 4px solid rgb(161, 20, 194);
+    background-color: #5914d0;}
+    0%{ Border: 4px solid rgb(161, 20, 194);
+    background-color: #5914d0;
+}
+}
+.contentUnreadText-3oxASB,.contentHoveredText-2HYGIY {
+    animation: glowpulse 0.51s ease-out;
+    animation-iteration-count: infinite; 
+border-radius:5px;
+}
+.contentSelectedText-3j5CXt{
+border-radius:5px;
+}
+[class*="guild unread"] {
+    animation: glow 1s ease-out;
+    animation-iteration-count: infinite; 
+border-radius:50px
+}
+@keyframes glow {
+    50%{
+    border: 6px solid rgb(6, 76, 239);
+    background-color: #2780e6;}
+    100%{
+    Border: 6px solid rgb(161, 20, 194);
+    background-color: #5914d0;}
+    0%{ Border: 6px solid rgb(161, 20, 194);
+    background-color: #5914d0;
+}
