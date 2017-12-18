@@ -1710,3 +1710,9 @@ border-radius:50px
     0%{ Border: 6px solid rgb(161, 20, 194);
     background-color: #5914d0;
 }
+.theme-dark .message-group h2 strong {
+    font-weight: 600;
+}
+.message-group h2 strong {
+    font-size: 22px;
+}
