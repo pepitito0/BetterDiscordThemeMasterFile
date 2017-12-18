@@ -1623,3 +1623,56 @@ animation-timing-function: linear;
 .theme-dark .chat .jump-to-present-bar {
     background: rgba(121, 12, 218, 1);
 }
+.icon-1NXYub {
+    opacity: 1;
+}
+.icon-33Frxe {
+    opacity: 1;
+}
+.nameDefault-1I0lx8 {
+    font-size: medium;
+    font-weight: 700;
+}
+.iconInactive-WWHQEI:hover  {
+   animation: shake .5s;
+   animation-iteration-count: 1;
+animation-timing-function: linear; 
+}
+.chat .new-messages-bar {
+    -webkit-transition: background-color .2s;
+    background-color: rgba(136, 11, 199, 0.9);
+    border-radius: 0 0 5px 5px;
+    color: #fff;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-weight: 400;
+    left: 20px;
+    position: absolute;
+    right: 20px;
+    text-transform: capitalize;
+    top: 0;
+    transition: background-color .2s;
+    z-index: 2;
+}
+.nameHovered-28u_Fz, .nameSpeaking-3ROx9q {
+    color: #f6f6f7;
+    font-size:medium !important;
+    font-weight: 700 !important;
+}
+.theme-dark .lfg-3xoFkI {
+    background-color: rgba(54, 57, 63, 0);
+}
+.theme-dark .ui-search-bar {
+    background-color: rgba(103, 15, 224, 0.48);
+}
+.theme-dark .gameCount-3gA7A4 {
+    color: hsl(0, 0%, 100%);
+}
+.message-group h2 {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+}
