@@ -1673,7 +1673,7 @@ animation-timing-function: linear;
 .message-group h2 {
     margin: 0;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.12)!important;
+    background-color: rgba(33, 33, 33, 0.15);
     border-radius: 5px;
 }
 @keyframes glowpulse {
