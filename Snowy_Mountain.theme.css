@@ -1716,3 +1716,6 @@ border-radius:50px
 .message-group h2 strong {
     font-size: 22px!important;
 }
+.chat .user-name {
+    font-size: 20px;
+}
