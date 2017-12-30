@@ -1,0 +1,1601 @@
+//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.0"}*//{}
+
+.guilds-wrapper {
+    background-color: #1f2123;
+}
+.channels-3g2vYe {
+    background-color: #1f2123;
+}
+.container-RYiLUQ {
+    background-color: #1f2123;
+}
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: #1f2123;
+}
+.theme-dark .chat form {
+    background-color: #1f2123;
+}
+.theme-dark .chat form {
+    background-color: #1f2123;
+    margin-left: 0px;
+    margin-right: 0px;
+    -webkit-box-shadow: none!important;
+}
+.container-3lnMWU {
+    background-color: #1f2123;
+    border-bottom: 1px solid #075ad4;
+}
+ .container-iksrDt {
+    background-color: #1f2123;
+}
+.theme-dark .title-qAcLxz {
+    background-color: #1f2123;
+}
+.theme-dark .inner-3if5cm {
+    background-color: hsl(0, 0%, 13%);
+}
+.theme-dark .inner-3if5cm {
+    border: 1px solid #075ad4;
+}
+.theme-dark .channel-members {
+    background-color: #1f2123;
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: #1f2123;
+    border-color: #075ad4;
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: #1f2123;
+    border-color: #075ad4;
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: #075ad4;
+}
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: #075ad4;
+    opacity: 1;
+}
+.theme-dark .message-group .embed-wrapper .embed-color-pill {
+    background: #075ad4!important;
+}
+.theme-dark .channel-members .member.popout-open, .theme-dark .channel-members .member:hover {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.contentSelectedText-3j5CXt {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.theme-dark .channel-members h2 {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 3px solid #075ad4;
+    border-radius: 10px;
+    margin-left: 15px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+}
+.nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 2px solid #075ad4;
+    border-radius: 10px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+    margin-top: -8px!important;
+    box-shadow: 0px 0px 50px 1px #0476f9;
+}
+.nameCollapsed-3_ChMu, .nameDefault-Lnjrwm, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI, .nameMuted-1n0LSj, .nameUnread-WKlSv- {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 2px solid #075ad4;
+    border-radius: 10px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+    margin-top: -8px!important;
+    box-shadow: 0px 0px 50px 1px #0476f9;
+}
+.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 2px solid #075ad4;
+    border-radius: 10px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+    margin-top: -8px!important;
+}
+.iconHovered-3PRzOR, .iconHoveredCollapsed-jNYgOD, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 2px solid #075ad4;
+    border-radius: 10px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+    margin-top: -8px!important;
+}
+.theme-dark .title-qAcLxz {
+    background-color: #1f2123;
+    border-bottom: 1px solid #075ad4;
+}
+.container-3NvGrL, .header-1tSljs {
+       box-shadow:0px 1px #075ad4;
+}
+.theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, .theme-dark .messages-wrapper .messages .divider span {
+    background-color: #333333;
+}
+.theme-dark .headerNormal-1cioxU {
+    background-color: transparent;
+}
+.theme-dark .body-3rkFrF, .theme-dark .footer-2J5zqP {
+    background-color: transparent;
+    color: hsla(0,0%,100%,.8);
+}
+.userPopout-4pfA0d {
+    background-color: #1f2123;
+    border-top:2px solid #075ad4;
+    border-left:2px solid #075ad4;
+    border-right:2px solid #075ad4;
+    border-bottom:2px solid #075ad4;
+    border-radius:10px;
+}
+.theme-dark .quickMessage-28pD5Y {
+    background-color: rgba(35,38,42,.3);
+    border:2px solid #075ad4;
+    color: hsl(0, 0%, 100%);
+    border-radius:4px;
+}
+.theme-dark .userPopout-4pfA0d .note textarea {
+    border:2px solid #075ad4;
+    border-radius:4px;
+}
+.role-3rahR_ {
+    border: 2px solid;
+}
+.headerPlaying-2eYqm9 {
+    background-color: transparent;
+}
+.activity-AFBUEw {
+    background-color: rgb(31, 33, 35);
+    padding: 10px;
+}
+.theme-dark .message-group:not(.has-divider) {
+    border-bottom-color: hsla(216, 94%, 43%, 0.33);
+}
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: #72767d;
+    text-transform: capitalize;
+}
+.nameMutedText-1YDcP-, .nameMutedVoice-26k4cP {
+    color: #4f545c;
+    text-transform: capitalize;
+}
+.nameHoveredText-2FFqiz {
+    color: #b9bbbe;
+    text-transform: capitalize;
+}
+.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
+    color: #dcddde;
+    text-transform: capitalize;
+}
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+#friends .friends-header{
+	position:relative;
+	height:46px !important;
+}
+#friends .friends-header .tab-bar{
+	
+	width:100%;
+	position:absolute;
+	top:70px;
+	display:flex;
+	justify-content:center;
+	z-index:2;
+}
+#friends .friends-header .header-toolbar{
+	position:absolute;right:20px;
+}
+#friends .friends-table .friends-table-body{
+	padding:0;
+	margin:40px 0 0;
+}
+#friends .friends-header .tab-bar .tab-bar-separator,#friends .friends-table .friends-table-header .friends-column-separator{
+	display:none;
+}
+#friends .friends-header .tab-bar .tab-bar-item,#friends .friends-table .friends-table-header .friends-column,#friends .friends-table .friends-row .friends-column-name,#friends .friends-table .friends-row .friends-column-status{
+	color:rgba(255, 255, 255, 0.6)!important;
+}
+#friends .friends-header .btn,#friends .friends-header .tab-bar .tab-bar-item.selected{
+    color:#fff !important;
+}
+#friends .friends-header .tab-bar .tab-bar-item{
+	padding:5px 8px;
+	margin:0 5px;
+	transition:color 500ms, background 500ms;
+}
+#friends .friends-header .tab-bar .tab-bar-item .badge{
+	background:rgba(0, 0, 0, 0.2)!important;
+	color:#fff!important;
+	opacity:0.7;
+	transition:opacity 500ms;
+}
+#friends .friends-header .tab-bar .tab-bar-item:hover .badge{
+	opacity:1;
+}
+#friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary{
+    color:#fff !important;
+}
+#friends .friends-table{
+	padding-top:11px;
+}
+#friends .friends-table .friend-table-add-wrapper{
+	margin-top:20px;
+}
+#friends .friends-table .friend-table-add-wrapper .friend-table-add-header{
+	background:rgba(0, 0, 0, 0.2);
+    box-shadow:1px 1px 2px 1px rgba(0, 0, 0, 0.3);
+	margin:20px 30px;
+	border-radius:5px;
+}
+#friends .friends-table .friend-table-add-wrapper h2{
+	color:rgba(225, 225, 225, 0.9);
+}
+#friends .friends-table .friend-table-add-wrapper .friend-table-suggestions-header{
+	margin:30px 30px 16px;
+	padding:0;
+	border-bottom:1px solid rgba(206, 196, 196, 0.6);
+}
+#friends .friends-table .friend-table-add-wrapper .friend-table-suggestions-header h2{
+	color:rgba(225, 225, 225, 0.9);
+}
+#friends .friends-table .friends-table-header{
+	display:none;
+}
+#friends .friends-table .friends-table-body > span{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+}
+#friends .friends-table .friends-row{
+	background:rgba(0, 0, 0, 0.2)!important;
+	box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);
+	border-radius:5px;
+	margin:15px;
+	padding:0;
+	height:120px!important;
+	flex-direction:column;
+	flex-basis:300px;
+	position:relative;
+	transition:opacity 300ms;
+}
+#friends .friends-table .friends-row:hover{
+	box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);
+	border-radius:5px;
+	margin:15px;
+    padding:0;
+    opacity:1!important;
+}
+#friends .friends-table .friends-row .avatar-small{
+	border-radius:5px;
+	box-shadow:1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+#friends .friends-table .friends-row + .friends-row{
+	border-top:none!important;
+}
+#friends .friends-table .friends-row .friends-column{
+	position:absolute;
+	backface-visibility:hidden;
+}
+#friends .friends-table .friends-row .friends-column + .friends-column{
+	margin:0;
+}
+#friends .friends-table .friends-row .friends-column-name .avatar-small{
+	top:25px;
+	left:15px;
+	width:85px;
+	height:85px;
+	background-size:85px 85px;
+	opacity:0.6;
+	transition:opacity 500ms, transform .2s linear, box-shadow .2s linear;
+	transform: scale(0.97) perspective(1px);
+}
+#friends .friends-table .friends-row:hover .friends-column-name .avatar-small{
+	opacity:0.9;
+	transform: scale(1) perspective(1px);
+	box-shadow: 1px 1px 8px 1px #000;
+}
+#friends .friends-table .friends-row .friends-column-name .discord-tag{
+	display:block;
+	position:absolute;
+	top:25px;
+	left:115px;
+	text-shadow:1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+#friends .friends-table .friends-row .friends-column-name .discord-tag .username{
+	clear:left;
+	float:left;
+	width:100px;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+}
+#friends .friends-table .friends-row .friends-column-name .discord-tag .discriminator{
+	visibility:visible;
+}
+#friends .friends-table .friends-row .friends-column-name .username{
+	transition:color 300ms;
+}
+#friends .friends-table .friends-row:hover .username{
+    color:rgba(225, 225, 225, 1);
+}
+#friends .friends-table .friends-row .friends-column-status{
+	top:0;
+	width:100%;
+	justify-content:center;
+	height:18px;
+}
+#friends .friends-table .friends-row .friends-column-status .status{
+	width:100%;
+	height:20px;
+	border-radius:5px 5px 0 0 !important;
+	position:absolute;
+	top:0;
+	opacity:0.5;
+	z-index:0;
+}
+#friends .friends-table .friends-row .friends-column-status .status-text{
+	color:rgba(255, 255, 255, 0.5);
+	font-weight:800 !important;
+	max-width:90%;
+	font-size:12px;
+	line-height:normal;
+	transition:color 300ms;
+	z-index:0;
+}
+#friends .friends-table .friends-row:hover .friends-column-status .status-text{
+   color:#fff;
+}
+#friends .friends-table .friends-table-body .friends-row .friends-column-guilds{
+   top:80px;
+   left:115px;
+   width:150px;
+   display:flex!important;
+}
+#friends .friends-table .friends-table-body .friends-row .friends-column-guilds .avatar-small{
+	opacity:0.7;
+	transition:opacity 500ms;
+}
+#friends .friends-table .friends-table-body .friends-row:hover .friends-column-guilds .avatar-small{
+	opacity:1;
+}
+#friends .friends-table .friends-row .friends-column-guilds a:nth-child(4),#friends .friends-table .friends-row .friends-column-guilds a:nth-child(4) .avatar-small,#friends .friends-table .friends-row .friends-column-guilds a:nth-child(5),#friends .friends-table .friends-row .friends-column-guilds a:nth-child(5) .avatar-small,#friends .friends-table .friends-row .friends-column-guilds a:nth-child(n + 6){
+	display:none;
+}
+#friends .friends-table .friends-row .friends-column-guilds .avatar-small{
+	background-color:rgba(0, 0, 0, 0.4);
+}
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:before{
+	content:"";
+	background-color:rgba(0, 0, 0, 0.4);
+	background-image:url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTYuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjY0cHgiIGhlaWdodD0iNjRweCIgdmlld0JveD0iMCAwIDYxMiA2MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYxMiA2MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8Y2lyY2xlIGN4PSI2OS41NDUiIGN5PSIzMDYiIHI9IjY5LjU0NSIgZmlsbD0iI0ZGRkZGRiIvPgoJCTxjaXJjbGUgY3g9IjMwNiIgY3k9IjMwNiIgcj0iNjkuNTQ1IiBmaWxsPSIjRkZGRkZGIi8+CgkJPGNpcmNsZSBjeD0iNTQyLjQ1NSIgY3k9IjMwNiIgcj0iNjkuNTQ1IiBmaWxsPSIjRkZGRkZGIi8+Cgk8L2c+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==);
+	background-size:18px 18px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	border-radius:5px;
+	width:30px;
+	height:30px;
+	box-shadow:1px 1px 2px rgba(0, 0, 0, 0.5);
+	position:absolute;
+	top:0;
+}
+#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn,#friends .friends-table .friends-row .friends-column-guilds .more-mutual-guilds-btn:hover{
+	border:0;
+	color:transparent !important;
+}
+#friends .friends-table .friends-row .friends-column-actions{
+	top:25px;
+	right:-5px;
+	opacity:0;
+	transition:opacity 500ms;
+	visibility:visible;
+}
+#friends .friends-table .friends-row:hover .friends-column-actions{
+	opacity:1;
+}
+#friends .friends-table .friends-row .friends-column-actions .friends-action{
+	width:28px;
+	height:28px;
+	transform:translateX(120px);
+	transition:transform 500ms, background 500ms;
+}
+#friends .friends-table .friends-row:hover .friends-column-actions .friends-action{
+	transform:translateX(0px);
+}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:first-child{
+	background-color:rgba(73, 152, 76, 0.7);
+}
+#friends .friends-table .friends-row .friends-column-actions .friends-action:nth-child(2){
+	background-color:rgba(73, 152, 76, 0.7);
+}
+#friends .friends-table .friends-row .friends-suggestion-inner{
+	padding:20px;
+}
+#friends .friends-table .friends-row .friends-suggestion-inner .avatar-large{
+	border-radius:5px;
+	opacity:0.6;
+	transition:opacity 500ms;
+}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .avatar-large{
+	opacity:0.8;
+}
+#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .username{
+	color:rgba(225, 225, 225, 0.6);
+	width:100px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	transition:color 500ms;
+}
+#friends .friends-table .friends-row:hover .friends-suggestion-inner .friends-suggestion-info .discord-tag .username{
+	color:rgba(225, 225, 225, 0.9);
+}
+#friends .friends-table .friends-row .friends-suggestion-inner .friends-suggestion-info .discord-tag .discriminator{
+	color:rgba(225, 225, 225, 0.7);
+	visibility:visible;
+}
+#friends .friends-table .friends-row .friends-suggestion-inner ~ .friends-column-actions{
+	display:flex;
+	flex-direction:column;
+	padding:5px 25px 0 0;
+}
+#friends .friends-table .friends-row .friends-suggestion-inner ~ .friends-column-actions .friends-action:nth-child(2){
+	margin:5px 0 0 0;
+}
+@media (max-width:1300px){#friends .friends-table .friends-table-header .friends-column-guilds, #friends .friends-table .friends-table-header .friends-column-guilds + .friends-column-separator, #friends .friends-table .friends-row .friends-column-guilds{
+	display:block!important;
+}
+}
+#friends .friends-table .friends-row {
+    background: rgba(0, 0, 0, 0.2)!important;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5)!important;
+    border-radius: 5px!important;
+    margin: 15px!important;
+    padding: 0!important;
+    height: 120px!important;
+    flex-direction: column!important;
+    flex-basis: 300px!important;
+    transition: opacity 300ms!important;
+    white-space: nowrap!important;
+    width: 320px!important;
+    display: inline-block!important;
+    justify-content: center!important;
+    align-items: center !important;
+    justify-content:center!important;
+    position:relative!important;
+    flex-direction:column!important;
+}
+.theme-dark .inner-3if5cm {
+    background-color: hsl(0, 0%, 13%);
+    margin-right: 10px;
+}
+:root {
+		--des-1c:              "1c";
+
+		--des-abnf:            "ABNF";
+		--des-accesslog:       "Access Log";
+		--des-actionscript:    "ActionScript";
+		--des-ada:             "Ada";
+		--des-apache:          "Apache";
+		--des-applescript:     "Applescript";
+		--des-arduino:         "Arduino";
+		--des-armasm:          "ARM Assembly";
+		--des-asciidoc:        "AsciiDoc";
+		--des-aspectj:         "AspectJ";
+		--des-atom:            "Atom Feed (XML)";
+		--des-autohotkey:      "AutoHotkey";
+		--des-autoit:          "AutoIt";
+		--des-avrasm:          "AVR Assembler";
+		--des-awk:             "Awk";
+		--des-axapta:          "Axapta";
+
+		--des-bash:            "Bash";
+		--des-basic:           "Basic";
+		--des-dos:             "Batch";
+		--des-bnf:             "BNF";
+		--des-brainfuck:       "Brainfuck";
+
+		--des-c:               "C/C++";
+		--des-cs:              "C#";
+		--des-cal:             "CAL";
+		--des-capnproto:       "Cap'n Proto";
+		--des-ceylon:          "Ceylon";
+		--des-clean:           "Clean";
+		--des-clojure:         "Clojure";
+		--des-clojure-repl:    "Clojure REPL";
+		--des-cmake:           "CMake";
+		--des-coffeescript:    "CoffeeScript";
+		--des-coq:             "Coq";
+		--des-cos:             "CachÃ© Object Script";
+		--des-podspec:         "CocoaPod";
+		--des-crmsh:           "crmsh";
+		--des-crystal:         "Crystal";
+		--des-csp:             "CSP";
+		--des-css:             "CSS";
+
+		--des-d:               "D";
+		--des-dart:            "Dart";
+		--des-delphi:          "Delphi (Object Pascal)";
+		--des-diff:            "Diff";
+		--des-django:          "Django";
+		--des-dns:             "DNS Zone File";
+		--des-dockerfile:      "Dockerfile";
+		--des-dsconfig:        "dsconfig";
+		--des-dts:             "Device Tree";
+		--des-dust:            "Dust";
+
+		--des-ebnf:            "EBNF";
+		--des-elixir:          "Elixir";
+		--des-elm:             "Elm";
+		--des-erb:             "ERB";
+		--des-erlang:          "Erlang";
+		--des-erlang-repl:     "Erlang REPL";
+		--des-excel:           "Excel";
+
+		--des-fs:              "F#";
+		--des-fix:             "Fix";
+		--des-flix:            "Flix";
+		--des-fortran:         "Fortran";
+
+		--des-gams:            "GAMS";
+		--des-gauss:           "Gauss";
+		--des-gcode:           "G-code";
+		--des-gherkin:         "Gherkin";
+		--des-glsl:            "GLSL";
+		--des-go:              "Go";
+		--des-golo:            "Golo";
+		--des-gradle:          "Gradle";
+		--des-groovy:          "Groovy";
+
+		--des-haml:            "Haml";
+		--des-handlebars:      "Handlebars";
+		--des-haskell:         "Haskell";
+		--des-haxe:            "Haxe";
+		--des-hsp:             "HSP";
+		--des-html:            "HTML";
+		--des-htmlbars:        "HTMLBars";
+		--des-http:            "HTTP";
+		--des-https:           "HTTPS";
+		--des-hy:              "Hy";
+
+		--des-inform7:         "Inform7";
+		--des-ini:             "Ini";
+		--des-irpf90:          "IRPF90";
+		--des-irb:             "IRB";
+
+		--des-java:            "Java";
+		--des-javascript:      "JavaScript (Babel)";
+		--des-xjb:             "JAXB (XML)";
+		--des-jboss-cli:       "JBoss CLI";
+		--des-json:            "JSON";
+		--des-julia:           "Julia";
+		--des-julia-repl:      "Julia REPL";
+
+		--des-kotlin:          "Kotlin";
+
+		--des-lasso:           "Lasso";
+		--des-ldif:            "LDIF";
+		--des-leaf:            "Leaf";
+		--des-less:            "Less";
+		--des-lisp:            "Lisp";
+		--des-livecodeserver:  "LiveCode Server";
+		--des-livescript:      "LiveScript";
+		--des-llvm:            "LLVM IR";
+		--des-lsl:             "LSL";
+		--des-lua:             "Lua";
+
+		--des-makefile:        "Makefile";
+		--des-markdown:        "Markdown";
+		--des-mathematica:     "Mathematica";
+		--des-matlab:          "MatLab";
+		--des-maxima:          "Maxima";
+		--des-mel:             "MEL";
+		--des-mercury:         "Mercury";
+		--des-mipsasm:         "MISP Assembly";
+		--des-routeros:        "Mikrotik RouterOS";
+		--des-mizar:           "Mizar";
+		--des-mojolicious:     "Mojolicious";
+		--des-monkey:          "Monkey";
+		--des-moonscript:      "MoonScript";
+
+		--des-n1ql:            "N1QL";
+		--des-nginx:           "Nginx";
+		--des-nimrod:          "Nimrod";
+		--des-nix:             "Nix";
+		--des-nsis:            "NSIS";
+
+		--des-objectivec:      "Objective-C";
+		--des-ocaml:           "OCaml";
+		--des-openscad:        "OpenSCAD";
+		--des-ruleslanguage:   "Oracle Rules Language";
+		--des-oxygene:         "Oxygene";
+
+		--des-parser3:         "Parser3";
+		--des-pascal:          "Pascal/Object Pascal";
+		--des-perl:            "Perl";
+		--des-pf:              "PF";
+		--des-php:             "PHP";
+		--des-pony:            "Pony";
+		--des-powershell:      "PowerShell";
+		--des-processing:      "Processing";
+		--des-prolog:          "Prolog";
+		--des-plist:           "Property List";
+		--des-protobuf:        "Protocol Buffers";
+		--des-puppet:          "Puppet";
+		--des-purebasic:       "PureBASIC";
+		--des-python:          "Python";
+		--des-profile:         "Python profile";
+
+		--des-q:               "Q";
+		--des-qml:             "QML";
+
+		--des-r:               "R";
+		--des-rib:             "RenderMan RIB";
+		--des-rsl:             "RenderMan RSL";
+		--des-roboconf:        "Roboconf";
+		--des-rss:             "RSS Feed (XML)";
+		--des-ruby:            "Ruby";
+		--des-gemspec:         "Ruby Gem";
+		--des-rust:            "Rust";
+
+		--des-scala:           "Scala";
+		--des-scheme:          "Scheme";
+		--des-scilab:          "Scilab";
+		--des-scss:            "SCSS";
+		--des-shell:           "Shell";
+		--des-smali:           "Smali";
+		--des-smalltalk:       "Smalltalk";
+		--des-sml:             "SML";
+		--des-sqf:             "SQF";
+		--des-sql:             "SQL";
+		--des-stan:            "Stan";
+		--des-stata:           "Stata";
+		--des-step21:          "STEP Part 21";
+		--des-stylus:          "Stylus";
+		--des-subunit:         "SubUnit";
+		--des-swift:           "Swift";
+
+		--des-taggerscript:    "Tagger Script";
+		--des-tap:             "TAP";
+		--des-thor:            "Thor";
+		--des-tcl:             "Tcl";
+		--des-tex:             "TeX";
+		--des-thrift:          "Thrift";
+		--des-tp:              "TP";
+		--des-twig:            "Twig";
+		--des-typescript:      "TypeScript";
+		--des-vala:            "Vala";
+		--des-vbnet:           "VB.NET";
+		--des-vbscript:        "VBScript";
+		--des-vbscript-html:   "VBScript HTML";
+		--des-verilog:         "Verilog";
+		--des-vhdl:            "VHDL";
+		--des-vim:             "Vim Script";
+
+		--des-x86asm:          "x86 Assembly";
+		--des-xl:              "XL";
+		--des-xquery:          "XQuery";
+		--des-yaml:            "YAML";
+		--des-xhtml:           "XHTML";
+		--des-xml:             "XML";
+		--des-xsd:             "XML Schema";
+		--des-xsl:             "XSL";
+
+		--des-zephir:          "Zephir";
+
+	  /*--des-default:			"Not defined";*/
+}
+
+.message-group .comment .markup pre code:before {
+
+  position: relative;
+  display: block;
+  top: 0;
+  text-align: center;
+  width: 100;
+  color: white;
+  border-radius: 6px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  margin-top: -10px !important;
+  margin-bottom: 4px;
+  background:#075ad4;
+  margin-right:0px;
+  margin-left:0px;
+  font-weight:700;
+}
+.theme-dark .message-group .comment .markup code.inline{
+margin-left: -2px;
+margin-right: -2px;
+
+}
+
+.message-group .comment .markup pre code:-webkit-any([class~="1c" i]):before{content:  var(--des-1c);}
+.message-group .comment .markup pre code:-webkit-any([class~="abnf" i]):before{content:  var(--des-abnf);}
+.message-group .comment .markup pre code:-webkit-any([class~="accesslog" i]):before{content:  var(--des-accesslog);}
+.message-group .comment .markup pre code:-webkit-any([class~="actionscript" i],[class~="as" i]):before{content:  var(--des-actionscript);}
+.message-group .comment .markup pre code:-webkit-any([class~="ada" i]):before{content:  var(--des-ada);}
+.message-group .comment .markup pre code:-webkit-any([class~="armasm" i],[class~="arm" i]):before{content:  var(--des-armasm);}
+.message-group .comment .markup pre code:-webkit-any([class~="avrasm" i]):before{content:  var(--des-avrasm);}
+.message-group .comment .markup pre code:-webkit-any([class~="apache" i]):before{content:  var(--des-apache);}
+.message-group .comment .markup pre code:-webkit-any([class~="arduino" i]):before{content:  var(--des-arduino);}
+.message-group .comment .markup pre code:-webkit-any([class~="applescript" i],[class~="osascript" i]):before{content:  var(--des-applescript);}
+.message-group .comment .markup pre code:-webkit-any([class~="asciidoc" i],[class~="adoc" i]):before{content:  var(--des-asciidoc);}
+.message-group .comment .markup pre code:-webkit-any([class~="aspectj" i]):before{content:  var(--des-aspectj);}
+.message-group .comment .markup pre code:-webkit-any([class~="autohotkey" i]):before{content:  var(--des-autohotkey);}
+.message-group .comment .markup pre code:-webkit-any([class~="autoit" i]):before{content:  var(--des-autohotkey);}
+.message-group .comment .markup pre code:-webkit-any([class~="awk" i],[class~="mawk" i],[class~="nawk" i],[class~="gawk" i]):before{content:  var(--des-awk);}
+.message-group .comment .markup pre code:-webkit-any([class~="axapta" i]):before{content:  var(--des-axapta);}sage-group .comment .markup pre code:-webkit-any([class~="bash" i],[class~="sh" i],[class~="zsh" i]):before{content:  var(--des-bash);}
+.message-group .comment .markup pre code:-webkit-any([class~="basic" i]):before{content:  var(--des-basic);}
+.message-group .comment .markup pre code:-webkit-any([class~="bnf" i]):before{content:  var(--des-bnf);}
+.message-group .comment .markup pre code:-webkit-any([class~="brainfuck" i],[class~="bf" i]):before{content:  var(--des-brainfuck);}
+.message-group .comment .markup pre code:-webkit-any([class~="cs" i],[class~="csharp" i]):before{content:  var(--des-cs);}
+.message-group .comment .markup pre code:-webkit-any([class~="cpp" i],[class~="c" i],[class~="cc" i],[class~="h" i],[class~="c++" i],[class~="h++" i],[class~="hpp" i]):before{content:  var(--des-cpp);}
+.message-group .comment .markup pre code:-webkit-any([class~="cal" i]):before{content:  var(--des-cal);}
+.message-group .comment .markup pre code:-webkit-any([class~="cos" i],[class~="cls" i]):before{content:  var(--des-cos);}
+.message-group .comment .markup pre code:-webkit-any([class~="cmake" i]):before{content:  var(--des-cmake);}
+.message-group .comment .markup pre code:-webkit-any([class~="coq" i]):before{content:  var(--des-coq);}
+.message-group .comment .markup pre code:-webkit-any([class~="csp" i]):before{content:  var(--des-csp);}
+.message-group .comment .markup pre code:-webkit-any([class~="css" i]):before{content:  var(--des-css);}
+.message-group .comment .markup pre code:-webkit-any([class~="capnproto" i],[class~="capnp" i]):before{content:  var(--des-capnproto);}
+.message-group .comment .markup pre code:-webkit-any([class~="clojure" i],[class~="clj" i]):before{content:  var(--des-clojure);}
+.message-group .comment .markup pre code:-webkit-any([class~="coffee" i],[class~="coffeescript" i],[class~="cson" i],[class~="iced" i]):before{content:  var(--des-coffee);}
+.message-group .comment .markup pre code:-webkit-any([class~="crmsh" i],[class~="crm" i],[class~="pcmk" i]):before{content:  var(--des-crmsh);}
+.message-group .comment .markup pre code:-webkit-any([class~="crystal" i]):before{content:  var(--des-crystal);}
+.message-group .comment .markup pre code:-webkit-any([class~="d" i]):before{content:  var(--des-d);}
+.message-group .comment .markup pre code:-webkit-any([class~="dns" i]):before{content:  var(--des-dns);}
+.message-group .comment .markup pre code:-webkit-any([class~="dos" i],[class~="bat" i],[class~="cmd" i]):before{content:  var(--des-dos);}
+.message-group .comment .markup pre code:-webkit-any([class~="dart" i]):before{content:  var(--des-dart);}
+.message-group .comment .markup pre code:-webkit-any([class~="delphi" i],[class~="dpr" i],[class~="dfm" i],[class~="pas" i],[class~="pascal" i],[class~="freepascal" i],[class~="lazerus" i],[class~="lpr" i],[class~="lfm" i]):before{content:  var(--des-delphi);}
+.message-group .comment .markup pre code:-webkit-any([class~="diff" i],[class~="patch" i]):before{content:  var(--des-diff);}
+.message-group .comment .markup pre code:-webkit-any([class~="django" i],[class~="jinja" i]):before{content:  var(--des-django);}
+.message-group .comment .markup pre code:-webkit-any([class~="dockerfile" i],[class~="docker" i]):before{content:  var(--des-dockerfile);}
+.message-group .comment .markup pre code:-webkit-any([class~="dsconfig" i]):before{content:  var(--des-dsconfig);}
+.message-group .comment .markup pre code:-webkit-any([class~="dts" i]):before{content:  var(--des-dts);}
+.message-group .comment .markup pre code:-webkit-any([class~="dust" i],[class~="dst" i]):before{content:  var(--des-dust);}
+.message-group .comment .markup pre code:-webkit-any([class~="ebnf" i]):before{content:  var(--des-ebnf);}
+.message-group .comment .markup pre code:-webkit-any([class~="elixir" i]):before{content:  var(--des-elixir);}
+.message-group .comment .markup pre code:-webkit-any([class~="elm" i]):before{content:  var(--des-elm);}
+.message-group .comment .markup pre code:-webkit-any([class~="erlang" i],[class~="erl" i]):before{content:  var(--des-erlang);}
+.message-group .comment .markup pre code:-webkit-any([class~="excel" i],[class~="xls" i],[class~="xlsx" i]):before{content:  var(--des-excel);}
+.message-group .comment .markup pre code:-webkit-any([class~="fsharp" i],[class~="fs" i]):before{content:  var(--des-fsharp);}
+.message-group .comment .markup pre code:-webkit-any([class~="fix" i]):before{content:  var(--des-fix);}
+.message-group .comment .markup pre code:-webkit-any([class~="fortran" i],[class~="f90" i],[class~="f95" i]):before{content:  var(--des-fortran);}
+.message-group .comment .markup pre code:-webkit-any([class~="gcode" i],[class~="nc" i]):before{content:  var(--des-gcode);}
+.message-group .comment .markup pre code:-webkit-any([class~="gams" i],[class~="gms" i]):before{content:  var(--des-gams);}
+.message-group .comment .markup pre code:-webkit-any([class~="gauss" i],[class~="gss" i]):before{content:  var(--des-gauss);}
+.message-group .comment .markup pre code:-webkit-any([class~="gherkin" i]):before{content:  var(--des-gherkin);}
+.message-group .comment .markup pre code:-webkit-any([class~="go" i],[class~="golang" i]):before{content:  var(--des-go);}
+.message-group .comment .markup pre code:-webkit-any([class~="golo" i],[class~="gololang" i]):before{content:  var(--des-golo);}
+.message-group .comment .markup pre code:-webkit-any([class~="gradle" i]):before{content:  var(--des-gradle);}
+.message-group .comment .markup pre code:-webkit-any([class~="groovy" i]):before{content:  var(--des-groovy);}
+.message-group .comment .markup pre code:-webkit-any([class~="html" i],[class~="xml" i],[class~="xhtml" i],[class~="rss" i],[class~="atom" i],[class~="xjb" i],[class~="xsd" i],[class~="xsl" i],[class~="plist" i]):before{content:  var(--des-html);}
+.message-group .comment .markup pre code:-webkit-any([class~="http" i],[class~="https" i]):before{content:  var(--des-http);}
+.message-group .comment .markup pre code:-webkit-any([class~="haml" i]):before{content:  var(--des-haml);}
+.message-group .comment .markup pre code:-webkit-any([class~="handlebars" i],[class~="hbs" i]):before{content:  var(--des-handlebars);}
+.message-group .comment .markup pre code:-webkit-any([class~="haskell" i],[class~="hs" i]):before{content:  var(--des-haskell);}
+.message-group .comment .markup pre code:-webkit-any([class~="haxe" i],[class~="hx" i]):before{content:  var(--des-haxe);}
+.message-group .comment .markup pre code:-webkit-any([class~="hy" i],[class~="hylang" i]):before{content:  var(--des-hy);}
+.message-group .comment .markup pre code:-webkit-any([class~="ini" i]):before{content:  var(--des-ini);}
+.message-group .comment .markup pre code:-webkit-any([class~="inform7" i],[class~="i7" i]):before{content:  var(--des-inform7);}
+.message-group .comment .markup pre code:-webkit-any([class~="irpf90" i]):before{content:  var(--des-irpf90);}
+.message-group .comment .markup pre code:-webkit-any([class~="json" i]):before{content:  var(--des-json);}
+.message-group .comment .markup pre code:-webkit-any([class~="java" i],[class~="jsp" i]):before{content:  var(--des-java);}
+.message-group .comment .markup pre code:-webkit-any([class~="js" i],[class~="javascript" i],[class~="jsx" i]):before{content:  var(--des-js);}
+.message-group .comment .markup pre code:-webkit-any([class~="leaf" i]):before{content:  var(--des-leaf);}
+.message-group .comment .markup pre code:-webkit-any([class~="lasso" i],[class~="lassoscript" i]):before{content:  var(--des-lasso);}
+.message-group .comment .markup pre code:-webkit-any([class~="less" i]):before{content:  var(--des-less);}
+.message-group .comment .markup pre code:-webkit-any([class~="ldif" i]):before{content:  var(--des-ldif);}
+.message-group .comment .markup pre code:-webkit-any([class~="lisp" i]):before{content:  var(--des-lisp);}
+.message-group .comment .markup pre code:-webkit-any([class~="livecodeserver" i]):before{content:  var(--des-lcs);}
+.message-group .comment .markup pre code:-webkit-any([class~="livescipt" i],[class~="ls" i]):before{content:  var(--des-livescipt);}
+.message-group .comment .markup pre code:-webkit-any([class~="lua" i]):before{content:  var(--des-lua);}
+.message-group .comment .markup pre code:-webkit-any([class~="makefile" i],[class~="mk" i],[class~="mak" i]):before{content:  var(--des-makefile);}
+.message-group .comment .markup pre code:-webkit-any([class~="markdown" i],[class~="md" i],[class~="mkd" i],[class~="mkdown" i]):before{content:  var(--des-markdown);}
+.message-group .comment .markup pre code:-webkit-any([class~="mathematica" i],[class~="mma" i]):before{content:  var(--des-mathematica);}
+.message-group .comment .markup pre code:-webkit-any([class~="matlab" i]):before{content:  var(--des-matlab);}
+.message-group .comment .markup pre code:-webkit-any([class~="maxima" i]):before{content:  var(--des-maxima);}
+.message-group .comment .markup pre code:-webkit-any([class~="mel" i]):before{content:  var(--des-mel);}
+.message-group .comment .markup pre code:-webkit-any([class~="mercury" i]):before{content:  var(--des-mercury);}
+.message-group .comment .markup pre code:-webkit-any([class~="mizar" i]):before{content:  var(--des-mizar);}
+.message-group .comment .markup pre code:-webkit-any([class~="mojolicious" i]):before{content:  var(--des-mojolicious);}
+.message-group .comment .markup pre code:-webkit-any([class~="monkey" i]):before{content:  var(--des-monkey);}
+.message-group .comment .markup pre code:-webkit-any([class~="moonscript" i],[class~="moon" i]):before{content:  var(--des-moonscript);}
+.message-group .comment .markup pre code:-webkit-any([class~="n1ql" i]):before{content:  var(--des-n1ql);}
+.message-group .comment .markup pre code:-webkit-any([class~="nsis" i]):before{content:  var(--des-nsis);}
+.message-group .comment .markup pre code:-webkit-any([class~="nginx" i],[class~="nginxconf" i]):before{content:  var(--des-nginx);}
+.message-group .comment .markup pre code:-webkit-any([class~="nimrod" i],[class~="nim" i]):before{content:  var(--des-nimrod);}
+.message-group .comment .markup pre code:-webkit-any([class~="nix" i]):before{content:  var(--des-nix);}
+.message-group .comment .markup pre code:-webkit-any([class~="ocaml" i]):before{content:  var(--des-ocaml);}
+.message-group .comment .markup pre code:-webkit-any([class~="objectivec" i]):before{content:  var(--des-objectivec);}
+.message-group .comment .markup pre code:-webkit-any([class~="glsl" i]):before{content:  var(--des-glsl);}
+.message-group .comment .markup pre code:-webkit-any([class~="openscad" i]):before{content:  var(--des-openscad);}
+.message-group .comment .markup pre code:-webkit-any([class~="ruleslanguage" i]):before{content:  var(--des-ruleslang);}
+.message-group .comment .markup pre code:-webkit-any([class~="oxygene" i]):before{content:  var(--des-oxygene);} 
+.message-group .comment .markup pre code:-webkit-any([class~="pf" i]):before{content:  var(--des-pf);}
+.message-group .comment .markup pre code:-webkit-any([class~="php" i],[class~="php3" i],[class~="php4" i],[class~="php5" i],[class~="php6" i]):before{content:  var(--des-php);}
+.message-group .comment .markup pre code:-webkit-any([class~="parser3" i]):before{content:  var(--des-parser3);}
+.message-group .comment .markup pre code:-webkit-any([class~="perl" i],[class~="pl" i],[class~="pm" i]):before{content:  var(--des-perl);}
+.message-group .comment .markup pre code:-webkit-any([class~="pony" i]):before{content:  var(--des-pony);}
+.message-group .comment .markup pre code:-webkit-any([class~="powershell" i],[class~="ps" i]):before{content:  var(--des-powershell);}
+.message-group .comment .markup pre code:-webkit-any([class~="processing" i]):before{content:  var(--des-processing);}
+.message-group .comment .markup pre code:-webkit-any([class~="prolog" i]):before{content:  var(--des-prolog);}
+.message-group .comment .markup pre code:-webkit-any([class~="protobuf" i]):before{content:  var(--des-protobuf);}
+.message-group .comment .markup pre code:-webkit-any([class~="puppet" i],[class~="pp" i]):before{content:  var(--des-puppet);}
+.message-group .comment .markup pre code:-webkit-any([class~="python" i],[class~="py" i],[class~="gyp" i]):before{content:  var(--des-python);}
+.message-group .comment .markup pre code:-webkit-any([class~="profile" i]):before{content:  var(--des-profile);}
+.message-group .comment .markup pre code:-webkit-any([class~="k" i],[class~="kdb" i]):before{content:  var(--des-k);}
+.message-group .comment .markup pre code:-webkit-any([class~="qml" i]):before{content:  var(--des-qml);}
+.message-group .comment .markup pre code:-webkit-any([class~="r" i]):before{content:  var(--des-r);}
+.message-group .comment .markup pre code:-webkit-any([class~="rib" i]):before{content:  var(--des-rib);}
+.message-group .comment .markup pre code:-webkit-any([class~="rsl" i]):before{content:  var(--des-rsl);}
+.message-group .comment .markup pre code:-webkit-any([class~="graph" i],[class~="instances" i]):before{content:  var(--des-graph);}
+.message-group .comment .markup pre code:-webkit-any([class~="ruby" i],[class~="rb" i],[class~="gemspec" i],[class~="podspec" i],[class~="thor" i],[class~="irb" i]):before{content:  var(--des-ruby);}
+.message-group .comment .markup pre code:-webkit-any([class~="rust" i],[class~="rs" i]):before{content:  var(--des-rust);}
+.message-group .comment .markup pre code:-webkit-any([class~="scss" i]):before{content:  var(--des-scss);}
+.message-group .comment .markup pre code:-webkit-any([class~="sql" i]):before{content:  var(--des-sql);}
+.message-group .comment .markup pre code:-webkit-any([class~="p21" i],[class~="step" i],[class~="stp" i]):before{content:  var(--des-p21);}
+.message-group .comment .markup pre code:-webkit-any([class~="scala" i]):before{content:  var(--des-scala);}
+.message-group .comment .markup pre code:-webkit-any([class~="scheme" i]):before{content:  var(--des-scheme);}
+.message-group .comment .markup pre code:-webkit-any([class~="scilab" i],[class~="sci" i]):before{content:  var(--des-scilab);}
+.message-group .comment .markup pre code:-webkit-any([class~="shell" i],[class~="console" i]):before{content:  var(--des-shell);}
+.message-group .comment .markup pre code:-webkit-any([class~="smali" i]):before{content:  var(--des-smali);}
+.message-group .comment .markup pre code:-webkit-any([class~="smalltalk" i],[class~="st" i]):before{content:  var(--des-smalltalk);}
+.message-group .comment .markup pre code:-webkit-any([class~="stan" i]):before{content:  var(--des-stan);}
+.message-group .comment .markup pre code:-webkit-any([class~="stata" i]):before{content:  var(--des-stata);}
+.message-group .comment .markup pre code:-webkit-any([class~="stylus" i],[class~="styl" i]):before{content:  var(--des-stylus);}
+.message-group .comment .markup pre code:-webkit-any([class~="subunit" i]):before{content:  var(--des-subunit);}
+.message-group .comment .markup pre code:-webkit-any([class~="swift" i]):before{content:  var(--des-swift);}
+.message-group .comment .markup pre code:-webkit-any([class~="tap" i]):before{content:  var(--des-tap);}
+.message-group .comment .markup pre code:-webkit-any([class~="tcl" i],[class~="tk" i]):before{content:  var(--des-tcl);}
+.message-group .comment .markup pre code:-webkit-any([class~="tex" i]):before{content:  var(--des-tex);}
+.message-group .comment .markup pre code:-webkit-any([class~="thrift" i]):before{content:  var(--des-thrift);}
+.message-group .comment .markup pre code:-webkit-any([class~="tp" i]):before{content:  var(--des-tp);}
+.message-group .comment .markup pre code:-webkit-any([class~="twig" i],[class~="craftcms" i]):before{content:  var(--des-twig);}
+.message-group .comment .markup pre code:-webkit-any([class~="typescript" i],[class~="ts" i]):before{content:  var(--des-typescript);}
+.message-group .comment .markup pre code:-webkit-any([class~="vbnet" i],[class~="vb" i]):before{content:  var(--des-vbnet);}
+.message-group .comment .markup pre code:-webkit-any([class~="vbscript" i],[class~="vbs" i]):before{content:  var(--des-vbscript);}
+.message-group .comment .markup pre code:-webkit-any([class~="vhdl" i]):before{content:  var(--des-vhdl);}
+.message-group .comment .markup pre code:-webkit-any([class~="vala" i]):before{content:  var(--des-vala);}
+.message-group .comment .markup pre code:-webkit-any([class~="verilog" i],[class~="v" i]):before{content:  var(--des-verilog);}
+.message-group .comment .markup pre code:-webkit-any([class~="vim" i]):before{content:  var(--des-vim);}
+.message-group .comment .markup pre code:-webkit-any([class~="x86asm" i]):before{content:  var(--des-x86asm);}
+.message-group .comment .markup pre code:-webkit-any([class~="xl" i],[class~="tao" i]):before{content:  var(--des-xl);}
+.message-group .comment .markup pre code:-webkit-any([class~="xpath" i],[class~="xq" i]):before{content:  var(--des-xpath);}
+.message-group .comment .markup pre code:-webkit-any([class~="zephir" i],[class~="zep" i]):before{content:  var(--des-zephir);}
+.channel-members h2 {
+    box-shadow: 0px 0px 50px 1px #0476f9;
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    text-transform: capitalize;
+}
+.popout header {
+    background-color: transparent;
+    border-bottom:3px solid #0476f9; 
+}
+.popout section {
+    background-color: transparent;
+}
+#rtc-connection-popout{
+    background-color: #1f2123;
+    border:3px solid #0476f9;
+    border-radius:4px
+}
+.popout.popout-top-right section:after, .popout.popout-top section:after {
+    border-top-color: #0476f9;
+}
+#rtc-connection-popout hr {
+    border: 1px solid #0476f9;
+}
+.channelName-1G03vu, .titleText-2IfpkV {
+    text-transform: capitalize;
+}
+.headerStreaming-3F-wjT {
+    background: #075ad4;
+}
+.theme-dark .search .search-bar {
+    background-color: hsla(0, 0%, 40%, 0.1);
+    border: 2px solid #075ad4;
+    border-radius: 4px;
+}
+.bd-blue .bot-tag {
+    background: #075ad4;
+}
+.inner-ptMwR- .rtc-connection-status-connected {
+    color: #075ad4;
+}
+.typeWindows-15E0Ys {
+    background-color: #202225;
+}
+.tooltip.tooltip-black {
+    background-color:#1f2123; 
+    border:1px solid #075ad4;
+}
+.tooltip::after {
+    visibility:hidden;
+}
+.wrapper-2ldvyE {
+    background-color: #1f2123;
+    border-radius: 4px;
+    border:1px solid #075ad4;
+}
+.tooltip.tooltip-black {
+    background-color:#1f2123; 
+    border:1px solid #075ad4;
+}
+.tooltip::after {
+    border-right-color: #075ad4 !important;
+}
+.tooltip.tooltip-black.tooltip-right:after {
+    border-right-color: #075ad4;
+}
+.wrapper-2ldvyE {
+    background-color: #1f2123;
+    border-radius: 4px;
+    border:1px solid #075ad4;
+}
+ .themeDefault-3M0dJU, .ui-switch-item .ui-switch-wrapper{
+  margin-top: 17px!important;
+  width: 35px!important;
+  height: 11px!important; 
+  }
+ .themeDefault-3M0dJU:after, .ui-switch-item .ui-switch-wrapper .ui-switch:before{
+  display: none!important;
+ }  
+ .themeDefault-3M0dJU, .ui-switch-wrapper input:not(:checked) ~ .ui-switch{
+  border-color: #075ad4!important;
+  background-color:rgba(0,0,0,0.1)!important;
+  box-shadow: 0 0 8px 4px #1f2123 !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  }
+  
+.themeDefault-3M0dJU.valueChecked-3Bzkbm, .ui-switch-wrapper input:checked ~ .ui-switch{
+  background-color: rgba(255,255,255,0.5) !important;
+  border-color: #FDE !important;
+  box-shadow: 0 0 8px 4px #075ad4 !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  }
+
+.themeDefault-3M0dJU.valueChecked-3Bzkbm:hover,  .ui-switch-wrapper:hover input:checked ~ .ui-switch {
+  background-color: rgba(255,255,255,0.5) !important;
+  border-color: #F6A !important; 
+  box-shadow: 0 0 8px 4px #075ad4!important;
+  }
+.themeDefault-3M0dJU:hover, .ui-switch-wrapper:hover input:not(:checked) ~ .ui-switch {
+    background-color: rgba(255, 255, 255, 0)!important;
+    border-color: #FDE !important;
+    box-shadow: 0 0 8px 4px #075ad4!important;
+}
+.topSectionPlaying-3jAH9b {
+    background: transparent;
+}
+.inner-1_1f7b {
+    background-color: #1f2123;
+    border:3px solid #0476f9;
+    border-radius:10px;
+}
+.theme-dark .body-3_tdh6 {
+    background-color: #1e1f21;
+}
+.tabBarContainer-3RVZc- {
+    border-top: 1px solid #0476f9;
+}
+.bd-blue .tab-bar.TOP .tab-bar-item.selected {
+    border-bottom: 2px solid #0476f9;
+    color: #0476f9;
+}
+.theme-dark .connectedAccount-3mKaTA, .theme-dark .userInfoSection-2WJxMm+.userInfoSection-2WJxMm {
+    border-color: #0476f9;
+}
+.tab-bar.tabBar-2z50ux .tabBarItem-1Lg555:hover {
+    border-bottom-color: #0476f9;
+}
+.tab-bar.TOP .tab-bar-item:hover {
+    color: #0476f9;
+}
+.theme-dark .activityProfile-2pymp0 .headerText-2CVBxK, .theme-dark .activityUserPopout-1nmgaw .headerText-2CVBxK, .theme-light .activityProfile-2pymp0 .headerText-2CVBxK, .theme-light .activityUserPopout-1nmgaw .headerText-2CVBxK {
+    color: #0476f9;
+}
+.theme-dark .activityProfile-2pymp0 .content-P9ThHS, .theme-dark .activityProfile-2pymp0 .details-vSFjFG, .theme-dark .activityProfile-2pymp0 .name-8onsv0, .theme-dark .activityUserPopout-1nmgaw .content-P9ThHS, .theme-dark .activityUserPopout-1nmgaw .details-vSFjFG, .theme-dark .activityUserPopout-1nmgaw .name-8onsv0, .theme-light .activityProfile-2pymp0 .content-P9ThHS, .theme-light .activityProfile-2pymp0 .details-vSFjFG, .theme-light .activityProfile-2pymp0 .name-8onsv0, .theme-light .activityUserPopout-1nmgaw .content-P9ThHS, .theme-light .activityUserPopout-1nmgaw .details-vSFjFG, .theme-light .activityUserPopout-1nmgaw .name-8onsv0 {
+    color: hsl(228, 3%, 64%);
+}
+.buttonBrandInverted-VFL7Yc {
+    background-color: #0476f9;
+    color: #ffffff;
+}
+.theme-dark.context-menu {
+    background: #1e1f21;
+    border:3px solid #0476f9;
+}
+.theme-dark.context-menu .item:hover {
+    background: #252525;
+    color: #69696b;
+}
+.popout-menu {
+    background: #1e1f21;
+    border:3px solid #0476f9;
+}
+.popout-menu .popout-menu-separator {
+    border-bottom: 1px solid #0476f9;
+}
+.bd-blue .popout-menu .popout-menu-item.invite {
+    color: #0251ac;
+}
+.popout-menu .popout-menu-item:hover {
+    background-color: #232323;
+    color: #737f8d;
+    opacity: 1;
+}
+.character-counter {
+    margin-right: 14px;
+}
+.message-group .mentioned .message-text:after {
+    background: rgb(7, 90, 212);
+    border-left: 4px solid #075ad4;
+}
+.theme-dark .message-group .mentioned .message-text {
+    background: rgba(7, 90, 212, 0.21);
+}
+.icon-3dhTrw path {
+    fill: white !important;
+}
+.icon-3dhTrw {
+    opacity: 1;
+}
+.invite .popout-menu-icon {
+    -webkit-filter: hue-rotate(335deg);
+}
+.actionIcon-2JXNvo {
+    opacity: 1;
+}
+.guilds-wrapper .guilds .friends-online {
+    color: #737f8d;
+}
+.bd-blue .mentioned .mention:hover {
+    color: #075ad4;
+}
+.bd-blue .mention {
+    color: #075ad4;
+}
+.theme-dark .message-group .comment .markup .mention:hover {
+    background-color: rgba(7, 90, 212, 0.18);
+}
+.theme-dark .message-group .comment .markup .mention {
+    background-color: rgba(7, 90, 212, 0.1);
+}
+.search-popout {
+    background-color: #1e1f21;
+    border:3px solid #0476f9;
+}
+.search-popout .option:after {
+    background: transparent;
+} 
+.search-popout .option.selected {
+    background-color: #292929;
+}
+.search-popout .option.selected:after {
+    background: transparent;
+}
+.search-popout .results-group:before {
+    border-top: 1px solid rgb(20, 22, 23);
+}
+.avatarSpeaking-3teDH6, .avatarDefault-3jtQoc, .avatarContainer-303pFz {
+    border-color: transparent !important;
+    box-shadow: none !important;
+    z-index: 10;
+}
+.avatarSpeaking-3teDH6::before {
+    content: "";
+    position: absolute;
+    left: -5px;
+    width: 4px;
+    height: 20px;
+    background: #0476f9;
+}
+.avatarSpeaking-3teDH6::after {
+    content: "";
+    position: absolute;
+    height: 20px;
+    left: -5px;
+    width: 100%;
+    background: linear-gradient(to right, #0476f9 0%, transparent 35%);
+    opacity: 0.5;
+    z-index: -1;
+}
+.theme-dark .activityFeed-HeiGwL {
+    background-color: #1f2123;
+}
+.theme-dark .headerBar-cxbhPD {
+    background: #1f2123;
+    border-bottom:3px solid #0476f9;
+}
+.private-channels .search-bar {
+    border-bottom:3px solid #0476f9;
+}
+.theme-dark .divider-1GKkV3 {
+    background: rgba(4, 118, 249, 0.42);
+}
+.theme-dark .body-8pBSC7 {
+    background-color: rgb(31, 33, 35);
+}
+.theme-dark .card-2WxYqG {
+    border:3px solid #0476f9;
+}
+.theme-dark .header-1qeJfQ {
+    background-color: #202225;
+    border-bottom-color: #0476f9;
+}
+#friends .friends-table {
+    margin-top: 0px;
+}
+.theme-dark .lfg-3xoFkI {
+    background-color: #1f2123;
+}
+.theme-dark .wrapper-33pNYY {
+    border-bottom-color: rgba(4, 118, 249, 0.33);
+}
+.theme-dark .top-2qoLb2 .itemSelected-3XxAMf {
+    border-bottom-color: #0476f9;
+}
+.theme-dark .card-11ynQk:before {
+    background-color: #1f2123;
+    border-color: #0973ff;
+}
+.theme-dark .max-mvI_jT:before {
+    border-bottom-color: #0476f9;
+}
+.theme-dark .max-mvI_jT {
+    background-color: #0476f9;
+    color: #fff;
+}
+.theme-dark .max-mvI_jT {
+    background-color: #0476f9;
+}
+.buttonGreenFilled-6QHNrw:hover {
+    background-color: #0476f9;
+}
+.buttonGreenFilled-6QHNrw {
+    background-color: #0476f9;
+}
+.theme-dark .ui-search-bar {
+    background-color: rgba(90, 90, 90, 0.33);
+    border: 3px solid #0476f9;
+}
+.buttonGreyFilled-3qPP_J {
+    background-color: #0476f9;
+}
+.buttonBrandFilledDefault-2Rs6u5:hover {
+    background-color: #0351ac;
+}
+.buttonBrandFilled-3Mv0Ra {
+    background-color: #0476f9;;
+}
+.buttonBrandFilledDefault-2Rs6u5:hover {
+    background-color: #0476f9;
+}
+.private-channels .channel.selected a {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.private-channels .channel:hover a {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
+    background-color: #0351ac;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
+    background-color: #0476f9;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #0476f9;
+    color: #ffffff;
+}
+#friends .friends-table .friends-row {
+    border: 3px solid #0476f9;
+}
+.theme-dark #friends .friends-table .friends-row:hover {
+    border: 3px solid #0476f9;
+}
+.theme-dark #friends .friends-table .friends-row:hover+.friends-row {
+    border: 3px solid #0476f9;
+}
+.private-channels header {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 3px solid #075ad4;
+    border-radius: 10px;
+    margin-left: 15px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+    opacity:1;
+}
+.guilds-wrapper .guilds .friends-online {
+    color: #ffffff;
+}
+.chat .new-messages-bar {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 1) 50%,rgba(3, 182, 236, 1));
+}
+.theme-dark .chat .jump-to-present-bar {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 1) 50%,rgba(3, 182, 236, 1));
+}
+.chat .jump-to-present-bar {
+    color: hsl(0, 0%, 100%);
+}
+.chat .jump-to-present-bar button:last-child {
+    color: hsl(0, 0%, 100%);
+}
+.buttonBrandFilledDefault-2Rs6u5:active {
+    background-color: #0476f9;
+}
+.buttonBrandFilled-3Mv0Ra {
+    background-color: #0351ac;
+
+}
+.side-2nYO0F .itemSelected-3XxAMf {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.theme-dark .side-2nYO0F .itemDefault-3NDwnY:hover, .theme-dark .side-2nYO0F .itemHover-3rojsB:hover {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+[style*="color: rgb(114, 137, 218);"]{
+color:white!important;
+}
+#bd-settings-sidebar .ui-tab-bar-item:hover {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+#bd-settings-sidebar .ui-tab-bar-item.selected {
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.61) 50%,rgba(3, 182, 236, 0.68));
+}
+.side-2nYO0F .header-1-f9X5:first-child, .theme-dark .header-1-f9X5, #bd-settings-sidebar .ui-tab-bar-header {
+    color: hsla(0,0%,50%,1);
+    text-align: center;
+    border: 3px solid #075ad4;
+    border-radius: 10px;
+    margin-left: 15px;
+    background: linear-gradient(90deg,rgba(13, 99, 206, 0.30) 40%,rgba(3, 182, 236, 0.50));
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: #1f2123;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: #1f2123;
+}
+#bd-customcss-detach-container .cm-s-material .CodeMirror-gutters {
+    border: 3px solid #0476f9;
+}
+.content-region .CodeMirror,#bd-customcss-detach-container .CodeMirror, #bd-customcss-detach-container .cm-s-material .CodeMirror-gutters {
+    background: #1f2123 !important;
+    border: 3px solid #0476f9;
+    border-radius:4px;
+}
+.content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: #1f2123;
+    border-right: 3px solid #0476f9;
+    border-left: 3px solid #0476f9;
+    border-bottom: 3px solid #0476f9;
+    border-top: 1px solid #0476f9;
+    border-radius:4px;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: #1f2123;
+    border: 3px solid #0476f9;
+    border-radius:4px;
+}
+[style*="border-radius: 0px; border-left: 1px solid rgb(45, 45, 45); border-right: 1px solid rgb(45, 45, 45);"] {
+    border: 3px solid #0476f9;
+    border-radius:4px;
+}
+.bd-blue .checkbox .checkbox-inner input[type=checkbox]:checked+span {
+    background-color: #0476f9;
+    border-color: #0476f9;
+    border-radius:4px;
+}
+}
+.cm-s-material .CodeMirror-guttermarker, .cm-s-material .CodeMirror-guttermarker-subtle, .cm-s-material .CodeMirror-linenumber {
+    color: #0476f9;
+}
+.bd-blue .bda-slist .bda-footer button {
+    background-color: #0476f9;
+}
+.bda-slist li {
+    background: rgb(31, 33, 35);
+    border: 3px solid #0476f9;
+    border-radius: 5px;
+}
+#bd-settingspane-container .ui-switch-item .style-description {
+    border-bottom: 1px solid #0759d5;
+}
+.cm-s-material .CodeMirror-guttermarker, .cm-s-material .CodeMirror-guttermarker-subtle, .cm-s-material .CodeMirror-linenumber {
+    color: #0476f9;
+}
+.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
+    background-color: #075ad4 !important;
+}
+#bd-settings-sidebar .ui-tab-bar-header {
+    padding: 0px 0px;
+}
+.side-2nYO0F .header-1-f9X5 {
+    padding: 0px 0px;
+}
+.theme-dark .divider-1G01Z9 {
+    background-color: rgba(4, 118, 249, 0.4);
+}
+.side-2nYO0F .header-1-f9X5:first-child, .theme-dark .header-1-f9X5, #bd-settings-sidebar .ui-tab-bar-header {
+    margin-left:none;
+}
+.side-2nYO0F .item-3879bf {
+    margin-left:7px;
+}
+#bd-settings-sidebar .ui-tab-bar-item {
+    margin-left:7px;
+}
+.barFill-18ABna {
+    background: #0476f9;
+}
+.bd-blue *[style*="background-color: rgb(114, 137, 218)"] {
+    background-color: #0476f9 !important;
+}
+.theme-dark .modal-3HOjGZ {
+    background-color: #1f2123;
+}
+.theme-dark .footer-1PYmcw {
+    background-color: #1f2123;
+}
+.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {
+    color: #0476f9;
+}
+.theme-dark .friends-table .messages .divider:not(.red) div, .theme-dark .messages-wrapper .messages .divider:not(.red) div {
+    background: #0476f9;
+}
+.theme-dark .themed-popout {
+    background-color: #1f2123;
+    border: 3px solid rgb(7, 90, 212);
+    box-shadow: 0 2px 10px 0 rgb(7, 90, 212);
+}
+.theme-dark .themed-popout .footer {
+    background-color: transparent;
+}
+.theme-dark .themed-popout .header {
+    background-color: rgba(53, 57, 62, 0);
+    box-shadow: 0 2px 3px 0 rgb(7, 90, 212);
+}
+.protip .label {
+    color: #075ad4;
+}
+.bd-blue .need-help-modal .header {
+    background-color: #0476f9;
+}
+.form.deprecated .form-inner {
+    background-color: #1f2123;
+}	
+.need-help-modal.deprecated .footer {
+    background-color: #1f2123;
+}	
+.need-help-modal.deprecated .header input[type=text] {
+	box-shadow: 0 2px 1px #0476f9;
+}
+.theme-dark .search-results-wrap {
+    background-color: #1f2123;
+}
+.theme-dark .search-results-wrap .search-result:before {
+    background-image: linear-gradient(0deg,rgb(31, 33, 35),#1f2123);
+}
+.theme-dark .search-results-wrap .search-result:after {
+    background-image: linear-gradient(180deg,rgba(47,49,54,0),#1f2123);
+}
+.theme-dark .search-results-wrap .search-result .hit {
+    background-color: rgb(31, 31, 31);
+}
+.theme-dark .search-results-wrap .search-header {
+    background-color: #1f2123;
+}
+.theme-dark .search-results-wrap .search-header .tab.selected, .theme-dark .search-results-wrap .search-header .tab:hover {
+    border-bottom: 2px solid #075ad4;
+}
+.theme-dark .search-results-wrap .channel-separator .channel-name {
+    background-color: transparent;
+}
+.theme-dark .search-results-wrap .action-buttons .jump-button {
+    background-color: #0476f9;
+}
+@keyframes spin { 
+        from { 
+            transform: rotate(0deg); 
+        } to { 
+            transform: rotate(360deg); 
+        }
+    }
+}
+@keyframes square-to-circle {
+  0%  {
+    border-radius:20% 20% 20% 20%;
+    
+  }
+  25%  {
+    border-radius:50% 0 0 0;
+  }
+  50%  {
+    border-radius:50% 50% 20% 20%;
+  }
+  75%  { 
+    border-radius:50% 50% 50% 20%;
+  }
+  100% {  
+    border-radius:50%;
+  }
+}
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+
+  20% {
+    transform: translateX(-2px);
+  }
+
+  40% {
+    transform: translateX(2px);
+  }
+
+  60% {
+    transform: translateX(-2px);
+  }
+
+  80% {
+    transform: translateX(2px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+.guilds-wrapper .guilds .guild .avatar-small:hover {
+   animation: square-to-circle 2s .5s infinite cubic-bezier(1,.015,.295,1.225);
+   animation-direction: alternate;
+}
+.container-iksrDt .button-1aU9q1 svg:hover {
+   animation-name: spin;
+   animation-duration: 4000ms;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+}
+.chat .avatar-large:hover {
+   animation: square-to-circle 2s .5s infinite cubic-bezier(1,.015,.295,1.225);
+   animation-direction: alternate;
+}   
+.iconInactive-WWHQEI:hover {
+   animation: shake .5s;
+   animation-iteration-count: 1;
+   animation-timing-function: linear; 
+}	
+.themeDefault-3M0dJU, .ui-switch-wrapper input:not(:checked) ~ .ui-switch {
+    border-color: #075ad4!important;
+    background-color: rgba(0,0,0,0.1)!important;
+    box-shadow: 0 0 8px 4px #000!important;
+    border-radius: 999px !important;
+    transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+.bda-dark .emoji-picker {
+    background-color: #1f2123;
+}
+.bda-dark .emoji-picker .header .search-bar {
+    background-color: #1f2123;
+}
+.bda-dark .emoji-picker .category {
+    background-color: #1f2123;
+}
+.popout.popout-top-right.no-arrow, .popout.popout-top.no-arrow {
+    margin-bottom: 10px;
+    border: 3px solid #0476f9;
+    border-radius: 7px;
+}
+.search-bar.search-bar-light .search-bar-inner {
+    background-color: rgb(38, 40, 42);
+    border: 2px solid #0476f9;
+    border-radius: 3px!important;
+}
+.bda-dark #bda-qem button {
+    background: #1f2123;
+}
+.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
+    background-color: #1f2123;
+}
+.emoji-picker .categories .item.selected {
+    border-bottom-color: #0476f9;
+}
+.bd-blue .upload-modal {
+    background-color: #1f2123;
+}
+.upload-modal .footer {
+    background-color: #0476f9;
+}
+.upload-modal .footer .button {
+    background-color: #1f2123;
+}
+.upload-modal .inner {
+    border: 2px dashed #0476f9;
+}
+.upload-modal .footer .button-primary {
+    color: #0476f9;
+}
+.guilds-wrapper .guilds .friends-icon {
+    background-color: #0476f9!important;
+}
+.themeDefault-3M0dJU, .ui-switch-item .ui-switch-wrapper {
+    margin-top: 17px!important;
+    width: 35px!important;
+    height: 11px!important;
+    margin-right: 10px;
+}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: relative;
+    width: 44px;
+    height: 24px;
+    display: block;
+    flex: 0 0 auto;
+    margin-top: -20;
+    margin-bottom: 10px;
+}
+.upload-modal {
+	background-color: #1f2123;
+}
+.emoji-picker {
+    background-color: #1f2123;
+}
+.emoji-picker .category {
+    background: #1f2123;
+}
+.emoji-picker .header .search-bar {
+    background: #1f2123;
+}
+.diversity-selector .popout {
+    background: #1f2123;
+    border: 1px solid #0476f9;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-color: #1f2123;
+}
+.scrollerThemed-19vinI.themeLight-1WK0Av .scroller-fzNley::-webkit-scrollbar-thumb, .theme-dark .scrollerThemed-19vinI.themeLight-1WK0Av .scroller-fzNley::-webkit-scrollbar-thumb, .theme-light .scrollerWrap-2uBjct .scroller-fzNley::-webkit-scrollbar-thumb {
+    background-color: #0476f9;
+    border-color: #0476f9;
+}
+.bot-tag {
+    background: #075ad4;
+}
+.tab-bar.TOP .tab-bar-item.selected {
+    border-bottom: 2px solid #0476f9;
+    color: #0476f9;
+}
+.popout-menu .popout-menu-item.invite {
+    color: #0251ac;
+}
+.mentioned .mention:hover {
+    color: #075ad4;
+}
+.mention {
+    color: #075ad4;
+}
+.checkbox .checkbox-inner input[type=checkbox]:checked+span {
+    background-color: #0476f9;
+    border-color: #0476f9;
+    border-radius:4px;
+}
+.bda-slist .bda-footer button {
+    background-color: #0476f9;
+}
