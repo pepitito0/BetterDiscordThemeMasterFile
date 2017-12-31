@@ -191,10 +191,6 @@ html, span:not(.spinner-item) {
     background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
     background-size: 470px 500px;
 }
-.scroller-wrap, .scroller .messages-popout{
-    background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
-    background-size: cover;
-}
 .theme-dark .search-results-wrap .search-header {
     background: #7289da url(https://i.imgur.com/Vcfofnn.jpg);
     background-size: cover;
