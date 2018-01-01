@@ -1,52 +1,21 @@
 //META{"name":"Transparent_Glass","description":"A_transparent_glass_theme","author":"xNightWulf","version":"1.0"}*//{}
 
-/* fix for stupid discord updates */
-.layers,
-.layer,
-.container-RYiLUQ {
-	background: transparent !important;
-}
-.container-3lnMWU {
-    background: rgba(32, 34, 37, 0);
-}
-.container-iksrDt {
-    background: rgba(32, 34, 37, 0);
-}
-.theme-dark .headerBar-cxbhPD {
-    background-color: transparent !important;
-}
-.appMount-14L89u {
-    background-color: transparent !important;
-}
-.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
-    background-color: transparent !important;
-}
 /* Background */
 .app {
     background-image: url(https://i.imgur.com/r82aiEg.png) !Important; 
     background-size: cover !important;	
 }
-.theme-dark .layer, .theme-dark .layers {
-    background: rgba(0, 0, 0, 0.3) !important;
-}
-.guilds-wrapper {
-	background: rgba(0, 0, 0, 0.2) !important;
-}
 .private-channels .channel.selected a {
     background-image: url(https://i.imgur.com/r82aiEg.png);
-    background-color: rgba(0, 112, 251, 0.43);
 }
 .private-channels .channel:hover a {
     background-image: url(https://i.imgur.com/r82aiEg.png);
-    background-color: rgba(0, 112, 251, 0.43);
 }
 .contentSelectedText-3j5CXt {
     background-image: url(https://i.imgur.com/r82aiEg.png);
-    background-color: rgba(0, 112, 251, 0.43);
 }
 .contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
     background-image: url(https://i.imgur.com/r82aiEg.png);
-    background-color: rgba(0, 112, 251, 0.43);
 }
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
     color: white;
@@ -66,7 +35,6 @@
 .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI, .nameMuted-1n0LSj, .nameUnread-WKlSv- {
     background-image: url(https://i.imgur.com/r82aiEg.png);
     background-size: cover;
-    background-color: rgba(0, 135, 251, 0.82);
     border-radius:10px;
     padding-left: 10px;
     padding-right: 10px;
@@ -77,12 +45,10 @@
 }
 .contentHoveredVoice-3qGNKh, .contentSelectedVoice-gTtYM9 {
     background-image: url(https://i.imgur.com/r82aiEg.png);
-    background-color: rgba(0, 112, 251, 0.43);
 }
 .theme-dark .message-group h2 strong {
     background-image: url(https://i.imgur.com/r82aiEg.png);
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.4);
     border-radius:10px;
     padding-left: 10px;
     padding-right: 10px;
@@ -97,50 +63,38 @@
     text-transform: capitalize;
 }
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: rgba(47, 49, 54, 0.2);
     border-color: rgba(54, 57, 62, 0.62);
 }
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: rgba(11, 165, 234, 0.49);
     border-color: rgba(54, 57, 62, 0.55);
 }
 .theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {
     background-image: url(https://i.imgur.com/r82aiEg.png) !important;
     background-size: cover !important;
-    background-color: rgba(0, 0, 0, 0.73) !important;
     color: white;
 }
 .theme-dark .message-group .comment .markup {
     color: white;
 }
 .message-group .mentioned .message-text:after {
-    background: rgba(26, 135, 250, 0.2);
     border-left: 4px solid #0a94e0;
 }
 .theme-dark .message-group .mentioned .message-text {
-    background: rgba(26, 166, 250, 0.1);
 }
 .hide-overflow {
-    background-color: rgba(0, 0, 0, 0.239216);
     margin-bottom: 10px;
     border-radius: 10px;
 }
 .scroller-NXV0-d {
     padding-bottom: 20px;
-    background: rgba(0, 0, 0, 0.2);
     background-image: url(https://i.imgur.com/r82aiEg.png) !important;
     background-size: cover !important;
 }
 .theme-dark .channel-members {
-    background-color: rgba(0, 0, 0, 0.2);
     background-image: url(https://i.imgur.com/r82aiEg.png) !important;
     background-size: cover !important;
 }
-.theme-dark .inner-3if5cm {
-    background-color: rgba(12, 118, 222, 0.2);
-}
 .theme-dark .friends-table .messages .divider:not(.red) div, .theme-dark .messages-wrapper .messages .divider:not(.red) div {
-    background: 200px rgba(8, 128, 245, 0.48);
     height: 2px;
     box-shadow: 2px 2px 20px #1179e2;
 }
