@@ -25,32 +25,13 @@
 }
 
 /*Transparency*/
-#voice-connection,
-#friends,
-.friends-header,
-.friends-table,
-.guild-header header,
-.channels-wrap,
-.private-channels .search-bar,
-.private-channels,
-.guild-channels,
-.account,
-.friend-table-add-header,
-.chat,
-.content,
-.layers,
-.title-wrap:not(.search-bar),
-.messages-wrapper,
-.messages .divider span,
-.messages .divider:before,
-.content,
-.message-group-blocked,
-.is-local-bot-message,
-.channel-members-loading,
-.channel-members-loading .heading,
-.channel-members-loading .member,
-.typing, .layer, .layers, .container-RYiLUQ {
-    background: rgba(0, 0, 0, 0.05) !important;
+#voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, 
+.private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper,
+.messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, 
+.channel-members-loading .heading, .channel-members-loading .member, .typing, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view,
+.theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .channel-members,
+ .container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe, .layer {
+    background: transparent !important;
 }
 .guilds-wrapper {
 	background: rgba(0, 0, 0, 0.2) !important;
