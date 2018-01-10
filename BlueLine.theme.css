@@ -1,4 +1,4 @@
-//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.0"}*//{}
+//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.1"}*//{}
 
 .guilds-wrapper {
     background-color: #1f2123;
@@ -1598,4 +1598,118 @@ color:white!important;
 }
 .bda-slist .bda-footer button {
     background-color: #0476f9;
+}
+.ace-monokai .ace_gutter {
+    background: rgba(4, 118, 249, 0.14)!important;
+    border-right: 3px solid #0476f9;
+    color: #ffffff;
+}
+.ace-monokai {
+    background-color: #1f2123!important;
+    color: #F8F8F2;
+    border: solid 3px #0476f9;
+}
+.ace-monokai .ace_gutter-active-line {
+    background-color: #0476f9;
+}
+.ace-monokai .ace_marker-layer .ace_selection {
+    background: rgba(4, 118, 249, 0.18);
+}
+
+.themeClear-1NqU69.valueChecked-3Bzkbm {
+  background-color: rgba(255,255,255,0.5) !important;
+  border-color: #FDE !important;
+  box-shadow: 0 0 8px 4px #075ad4 !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  margin-top: 17px!important;
+  width: 35px!important;
+  height: 11px!important; 
+  }
+.sizeDefault-rZbSBU:after{
+    display:none;
+}
+.themeClear-1NqU69.valueChecked-3Bzkbm:before {
+  background-color: rgba(255,255,255,0.5) !important;
+  border-color: #FDE !important;
+  box-shadow: 0 0 8px 4px #075ad4 !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  margin-top: 17px!important;
+  width: 35px!important;
+  height: 11px!important; 
+  }
+  .themeClear-1NqU69.valueUnchecked-XR6AOk.sizeDefault-rZbSBU {
+  border-color: #075ad4!important;
+  background-color:rgba(0,0,0,0.5)!important;
+  box-shadow: 0 0 8px 4px rgba(0,0,0,15) !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  margin-top: 17px!important;
+  width: 35px!important;
+  height: 11px!important; 
+  }
+.themeClear-1NqU69.valueUnchecked-XR6AOk.sizeDefault-rZbSBU:hover{
+  background-color: rgba(0,0,0,0.5)!important;
+  border-color: #FDE !important;
+  box-shadow: 0 0 8px 4px #075ad4 !important;
+  border-radius: 999px !important;
+  transition: background-color 0.5s, box-shadow 0.5s ,border-radius 0.5s !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important; 
+  margin-top: 17px!important;
+  width: 35px!important;
+  height: 11px!important; 
+  }  
+[class*="typing"] {
+    background:transparent!important;
+}
+[class*="uploadModal"] {
+    background-color: #1f2123;
+}
+[class*="uploadModal"]>[class*="footer"]{
+    background-color: #1f2123;
+}
+[class*="uploadModal"]>[class*="inner"] {
+    border: 2px dashed #0476f9;
+}
+.uploadModal-2KN6Mm .footer-4pOKm8 .button {
+    background-color: #0476f9;
+}
+.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh {
+    border:2px solid #0476f9!important;
+}
+.uploadModal-2KN6Mm .footer-4pOKm8 .button-primary {
+    color: #f4f4f4;
+}
+.nsfw-1APjPl {
+    background: #1f2123;
+}
+.bda-dark .emoji-picker, .bda-dark .emojiPicker-3g68GS {
+    background-color: #1f2123;
+}
+.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3g68GS .header-27dQ-e .search-bar {
+    background-color: #1f2123;
+}
+.bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3g68GS .category-3rCtoh {
+    background-color: #1f2123;
+}
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track-piece {
+    background-color: rgb(39, 39, 39) !important;
+    border-color: #303030 !important;
+}
+.popout.popout-top-right.no-arrow, .popout.popout-top.no-arrow {
+    background: #1f2123;
+}
+.theme-dark .sidebar-32BRdp {
+    background: rgba(47, 49, 54, 0);
+}
+.theme-dark .container-a2vS7i, .theme-dark .reactors-2PjMP0 {
+    background-color: rgba(54, 57, 63, 0);
 }
