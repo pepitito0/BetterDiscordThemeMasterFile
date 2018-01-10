@@ -1,4 +1,4 @@
-//META{"name":"Snowy_Mountain","description":"A_Snowy_Mountain_Theme","author":"xNightWulf","version":"1.0.3"}*//{}
+//META{"name":"Snowy_Mountain","description":"A_Snowy_Mountain_Theme","author":"xNightWulf","version":"1.1"}*//{}
 
 /*Transparency*/
 #voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, 
@@ -1718,4 +1718,7 @@ border-radius:50px
 }
 .chat .user-name {
     font-size: 20px;
+}
+.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW, .theme-dark .typing-3eiiL_ {
+    background: rgba(54, 57, 63, 0);
 }
