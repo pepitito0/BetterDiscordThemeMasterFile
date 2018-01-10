@@ -1,4 +1,4 @@
-//META{"name":"Neon_Waves","description":"A_Pink_Blue_Wave_Theme","author":"xNightWulf","version":"1.0"}*//{}
+//META{"name":"Neon_Waves","description":"A_Pink_Blue_Wave_Theme","author":"xNightWulf","version":"1.1"}*//{}
 /*Transparency*/
 #voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, 
 .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper,
@@ -1188,4 +1188,7 @@ background: transparent !important;
 }
 .context-menu .item-group:not(:first-child):not(:empty) {
     border-top-width: 0px;
+}
+.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW, .theme-dark .typing-3eiiL_ {
+    background: rgba(54, 57, 63, 0);
 }
