@@ -1,4 +1,4 @@
-//META{"name":"BlueNissanGTR","description":"A_blue_NissanSkylineGTR_theme","author":"xNightWulf","version":"1.0"}*//{}
+//META{"name":"BlueNissanGTR","description":"A_blue_NissanSkylineGTR_theme","author":"xNightWulf","version":"1.1"}*//{}
 
 /* Background */
 .app {
@@ -398,4 +398,7 @@ top:80px;left:115px;width:150px;display:flex!important;}
     justify-content:center!important;
     position:relative!important;
     flex-direction:column!important;
+}
+.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW, .theme-dark .typing-3eiiL_ {
+    background: rgba(54, 57, 63, 0);
 }
