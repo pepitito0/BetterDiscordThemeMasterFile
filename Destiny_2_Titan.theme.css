@@ -68,19 +68,6 @@
     color: rgb(0, 0, 0);
     font-weight: bold;
 }
-.theme-dark .message-group h2 strong {
-    width: 20px !important;
-    background: red !important;
-    background: -webkit-linear-gradient(#31343a, #41454c) !important;
-    background: -o-linear-gradient(#31343a, #41454c) !important;
-    background: -moz-linear-gradient(#31343a, #41454c) !important;
-    background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
-    border-radius: 25px !important;
-    padding-right: 10px !important;
-    padding-left: 10px !important;
-    text-shadow: 3px 3px 20px rgb(187, 0, 0);
-    padding: 3px;
-}
 .theme-dark .system-message .channel-name-change strong, .theme-dark .system-message .system-message-content .user-name, .theme-dark .system-message .system-message-content a {
     color: rgb(255, 0, 0);
 	font-weight: bold;
@@ -356,19 +343,6 @@ e075ba7….css:682
 	text-transform: uppercase;
 	font-weight: bold;
 	text-shadow: 1.4px 1.8px 0px #b00;
-}
-.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
-    color: rgb(255, 0, 0);
-    background: linear-gradient(rgb(113, 113, 113), rgb(0, 0, 0)) !important;
-    text-transform: Capitalize;
-    text-transform: uppercase;
-    text-decoration: underline;
-    font-weight: bold;
-    border-radius: 15px !important;
-    padding-right: 1px !important;
-    padding-left: 1px !important;
-    text-align: center;
-    font-size: 14px;
 }
 .iconHovered-3PRzOR, .iconHoveredCollapsed-jNYgOD, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI {
     color: rgb(255, 0, 0);
@@ -921,12 +895,6 @@ div[class*="switchEnabled"][class*=valueUnchecked] {
     background-color: #f3ab1a;
     color: #fff;
 }
-
-.theme-dark .message-group:not(.has-divider) {
-    border-bottom-color: hsla(0,0%,100%,.04);
-    background: rgba(255, 255, 255, 0.37);
-    margin-top: 15px;
-}
 .message-group .avatar-large {
     -ms-flex-negative: 0;
     flex-shrink: 0;
@@ -1328,4 +1296,71 @@ top:80px;left:115px;width:150px;display:flex!important;}
 }
 .theme-dark .layer-kosS71, .theme-dark .layers-20RVFW, .theme-dark .typing-3eiiL_ {
     background: rgba(54, 57, 63, 0);
+}
+.theme-dark .message-group h2 strong{
+    width: 20px !important;
+    background: red !important;
+    background: -webkit-linear-gradient(#31343a, #41454c) !important;
+    background: -o-linear-gradient(#31343a, #41454c) !important;
+    background: -moz-linear-gradient(#31343a, #41454c) !important;
+    background: linear-gradient(rgb(113, 113, 113), rgba(78, 77, 77, 0.39)) !important;
+    border-radius: 25px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    padding: 3px;
+}
+.theme-dark .message-group:not(.has-divider) {
+    border-bottom-color: hsla(0,0%,100%,.04);
+    background: rgba(37, 37, 37, 0.24);
+    margin-top: 10px;
+    border-radius: 15px !important;
+    Border-color: red;
+}
+.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {
+    color: rgb(255, 0, 0);
+    background: linear-gradient(rgb(113, 113, 113), rgb(74, 74, 74)) !important;
+    text-transform: Capitalize;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    border-radius: 15px !important;
+    padding-right: 1px !important;
+    padding-left: 1px !important;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 0.3px 0.3px 20px white;
+}
+.theme-dark .headerBar-cxbhPD {
+    background: rgba(54, 57, 63, 0);
+}
+.theme-dark .activityFeed-HeiGwL {
+    background-color: rgba(54, 57, 63, 0);
+}
+.theme-dark .header-1qeJfQ {
+    background-color: rgba(47, 49, 54, 0.15);
+    border-bottom-color: rgba(32,34,37,.6);
+}
+.theme-dark .card-2WxYqG {
+    background-color: rgba(54, 57, 63, 0.56);
+    border-color: rgba(32,34,37,.6);
+    color: #f6f6f7;
+}
+.lookFilled-luDKDo.colorBrand-3PmwCE {
+    background-color: #ff0000;
+    color: #fff;
+}
+.lookFilled-luDKDo.colorBrand-3PmwCE:hover {
+    background-color: #bf0404;
+}
+.theme-dark .lfg-3xoFkI {
+    background-color: rgba(54, 57, 63, 0);
+}
+.theme-dark .message-group h2 .timestamp {
+    color: hsl(0, 0%, 100%);
+}
+.message-group.has-divider {
+    border-color: transparent;
+    background: rgba(160, 160, 158, 0.81);
+    margin-top: 10px;
+    border-radius: 15px;
 }
