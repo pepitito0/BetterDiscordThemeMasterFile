@@ -1,4 +1,4 @@
-//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.3"}*//{}
+//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.3.2"}*//{}
 
 .guilds-wrapper {
     background-color: #1f2123;
@@ -1836,4 +1836,82 @@ background-color:#1f2123;
 }
 .create-guild-container.deprecated .action:hover.create .btn {
     background-color: #0351ac;
+}
+.theme-dark #memberCount {
+    background: #1f2123 !important;
+}
+[class*="headerPlaying"]{
+    background: #075ad4;
+}
+[class*="headerSpotify"] {
+    background: #009a36;
+}
+[class*="headerStreaming"] {
+    background: #43227b;
+}
+[class*="activityFeed"] {
+    background-color: #1f2123;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.selected .badge {
+    background-color: #0476f9;
+    color: #fff;
+}
+[style="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218); padding: 10px;"], [style*="padding: 10px; border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
+    background: #075ad4 !important;
+}
+[class*="lookFilled"] {
+    background-color: #075ad4;
+}
+.userSettingsVoice-TvPQ80 .sliderBar-2HQdQZ.speaking-mqn8JJ {
+    background-color: #075ad4;
+}
+[class*="barFill"] {
+        background: #075ad4 !important;
+}
+[class*="fill"] {
+    background: #0790d4 !important;
+}
+[style*="background: rgb(251, 184, 72);"] {
+     background: #0d80a9 !important;
+}
+[class*="flex-center now-playing"] {
+    background: #009a36 !important;
+    color: white !important;
+}
+[class*="ghostPill"] {
+    background-color: rgba(7,90,212,.1);
+    color: #075ad4;
+}
+.lookFilled-luDKDo.colorBrand-3PmwCE:hover {
+    background-color: #053e92;
+}
+[style*="flex: 1 1 auto; background-color: rgb(67, 181, 129); border-color: rgb(67, 181, 129);"] {
+        background: #0790d4 !important;
+        border-color:#075ad4 !important;
+}
+[class*="speaking"] {
+        box-shadow: inset 0 0 0 2px #075ad4 !important;
+}
+.bd-pfbtn {
+    background: #0476f9;
+}
+[class*="menu"] {
+    background: #1f2123;
+    border: 3px solid #075ad4;
+}
+.item-rK1j5B:hover {
+    background-color: #2d2d2d;
+    color: #ffffff;
+}
+.item-rK1j5B {
+    color: #ffffff;
+}
+.item-rK1j5B.invite-YM1l0n {
+    color: #075ad4;
+}
+.item-rK1j5B:hover.invite-YM1l0n {
+    color: #053e92;
+}
+[class*="separator"] {
+    border-bottom: 1px solid #075ad4;
 }
