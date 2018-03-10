@@ -1829,41 +1829,43 @@ background-color:#1f2123;
     color: white;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-    background-clip: padding-box;
-    background-color: #1f2123;
-    border: 3px solid #075ad4;
-    border-radius: 7px;
+    background-clip: padding-box !important;
+    background-color: #1f2123 !important;
+    border: 3px solid #075ad4 !important;
+    border-radius: 7px !important;
 }
 .create-guild-container.deprecated .action:hover.create .btn {
-    background-color: #0351ac;
+    background-color: #0351ac !important;
 }
 .theme-dark #memberCount {
     background: #1f2123 !important;
 }
 [class*="headerPlaying"]{
-    background: #075ad4;
+    background: #075ad4 !important;
 }
 [class*="headerSpotify"] {
-    background: #009a36;
+    background: #009a36 !important;
 }
 [class*="headerStreaming"] {
-    background: #43227b;
+    background: #43227b !important;
 }
 [class*="activityFeed"] {
-    background-color: #1f2123;
+    background-color: #1f2123 !important;
 }
 .theme-dark #friends .tab-bar .tab-bar-item.selected .badge {
-    background-color: #075ad4;
-    color: #fff;
+    background-color: #075ad4 !important;
+    color: #fff !important;
 }
 [style="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218); padding: 10px;"], [style*="padding: 10px; border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
     background: #075ad4 !important;
 }
 [class*="lookFilled"] {
-    background-color: #075ad4;
+    background-color: #075ad4 !important;
+}
 }
 .userSettingsVoice-TvPQ80 .sliderBar-2HQdQZ.speaking-mqn8JJ {
-    background-color: #075ad4;
+    background-color: #075ad4 !important;
+}
 }
 [class*="barFill"] {
         background: #075ad4 !important;
@@ -1878,12 +1880,16 @@ background-color:#1f2123;
     background: #009a36 !important;
     color: white !important;
 }
+}
 [class*="ghostPill"] {
-    background-color: rgba(7,90,212,.1);
-    color: #075ad4;
+    background-color: rgba(7,90,212,.1) !important;
+}
+    color: #075ad4 !important;
+}
 }
 .lookFilled-luDKDo.colorBrand-3PmwCE:hover {
-    background-color: #053e92;
+    background-color: #053e92 !important;
+}
 }
 [style*="flex: 1 1 auto; background-color: rgb(67, 181, 129); border-color: rgb(67, 181, 129);"] {
         background: #0790d4 !important;
@@ -1893,25 +1899,33 @@ background-color:#1f2123;
         box-shadow: inset 0 0 0 2px #075ad4 !important;
 }
 .bd-pfbtn {
-    background: #075ad4;
+    background: #075ad4 !important;
+}
 }
 [class*="menu"] {
-    background: #1f2123;
-    border: 3px solid #075ad4;
+    background: #1f2123 !important;
+}
+    border: 3px solid #075ad4 !important;
+}
 }
 .item-rK1j5B:hover {
-    background-color: #2d2d2d;
-    color: #ffffff;
+    background-color: #2d2d2d !important;
+}
+    color: #ffffff !important;
+}
 }
 .item-rK1j5B {
-    color: #ffffff;
+    color: #ffffff !important;
+}
 }
 .item-rK1j5B.invite-YM1l0n {
-    color: #075ad4;
+    color: #075ad4 !important;
+}
 }
 .item-rK1j5B:hover.invite-YM1l0n {
-    color: #053e92;
+    color: #053e92 !important;
+}
 }
 [class*="separator"] {
-    border-bottom: 1px solid #075ad4;
+    border-bottom: 1px solid #075ad4 !important;
 }
