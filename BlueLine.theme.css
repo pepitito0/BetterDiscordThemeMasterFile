@@ -1,4 +1,4 @@
-//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.3.2"}*//{}
+//META{"name":"BlueLine","description":"TrueDark_With_BlueLine","author":"xNightWulf","version":"1.3.3"}*//{}
 
 .guilds-wrapper {
     background-color: #1f2123;
@@ -1928,4 +1928,30 @@ background-color:#1f2123;
 }
 [class*="separator"] {
     border-bottom: 1px solid #075ad4 !important;
+}
+#pubslayer .ui-tab-bar-item.selected {
+    background-color: #075ad4;
+}
+#pubslayer .ui-tab-bar-header {
+    color: #ffffff;
+}
+.theme-dark .body-3ljq11, .theme-dark .footer-2wFs91 {
+    background-color: #1f2123;
+}
+.theme-dark .headerNormal-3Vn9nT {
+    background-color: #1f2123;
+}
+.userPopout-11hFKo {
+    border: 3px solid #075ad4;
+}
+.theme-dark .body-3ljq11, .theme-dark .footer-2wFs91 {
+    border-top:1px solid #075ad4;
+}
+.theme-dark.contextMenu-uoJTbz {
+    background: #151718;
+    border: 3px solid #075ad4;
+}
+.theme-dark .item-1XYaYf:hover, .theme-dark .itemSubMenu-3ZgIw- {
+    background: #151718;
+    color: #69696b;
 }
