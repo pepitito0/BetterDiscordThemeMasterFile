@@ -1,4 +1,4 @@
-//META{"name":"ThemeFixer","description":"Fixes_All_Themes_Including_Themes_That_Have_Been_Broke_For_Ages","author":"xNightWulf","version":"1.4"}*//{}
+//META{"name":"ThemeFixer","description":"Fixes_All_Themes_Including_Themes_That_Have_Been_Broke_For_Ages","author":"xNightWulf","version":"1.4.1"}*//{}
 /*To change the brightness change the rgba(0,0,0,0.18) at the bottom*/
 /*Transparency*/
 #voice-connection, 
@@ -51,8 +51,6 @@
 .video-3lOWa6,
 .theme-dark .private-channel-call,
 .appMount-3VJmYg,
-.theme-dark .layer-3QrUeG, 
-.theme-dark .layers-3iHuyZ,
 .container-2lgZY8,
 .channels-Ie2l6A,
 .container-PNkimc,
@@ -68,6 +66,6 @@
 .theme-dark .card-2WxYqG {
     background-color: rgba(54, 57, 63, 0.3)!important;
 }
-.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW, .typeWindows-15E0Ys {
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys {
     background: rgba(0, 0, 0, 0.18) !important;
 }
