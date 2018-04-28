@@ -1,4 +1,4 @@
-//META{"name":"ThemeFixer","description":"Fixes_All_Themes_Including_Themes_That_Have_Been_Broke_For_Ages","author":"xNightWulf","version":"1.3.1"}*//{}
+//META{"name":"ThemeFixer","description":"Fixes_All_Themes_Including_Themes_That_Have_Been_Broke_For_Ages","author":"xNightWulf","version":"1.4"}*//{}
 /*To change the brightness change the rgba(0,0,0,0.18) at the bottom*/
 /*Transparency*/
 #voice-connection, 
@@ -49,7 +49,19 @@
 .theme-dark .headerBar-cxbhPD,
 .theme-dark .lfg-3xoFkI,
 .video-3lOWa6,
-.theme-dark .private-channel-call{
+.theme-dark .private-channel-call,
+.appMount-3VJmYg,
+.theme-dark .layer-3QrUeG, 
+.theme-dark .layers-3iHuyZ,
+.container-2lgZY8,
+.channels-Ie2l6A,
+.container-PNkimc,
+.container-2Thooq,
+.container-2Thooq,
+.theme-dark .title-3qD0b-,
+.theme-dark .typing-2GQL18,
+.search-bar.search-bar-light,
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S{
   background: transparent !important;
 }
 .theme-dark .card-2WxYqG {
