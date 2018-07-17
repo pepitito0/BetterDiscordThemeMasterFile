@@ -15,7 +15,7 @@
 }
 /*v1.1*/
 .headerNormal-1cioxU {
-    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !important; 
     background-size:cover !important;
 }
 .headerNormal-1cioxU {
@@ -32,7 +32,7 @@
     padding: 10px;
 }
 #user-profile-modal .header:after {
-    background-image: url(https://i.imgur.com/wIb29q9.jpg) !Important; 
+    background-image: url(https://i.imgur.com/wIb29q9.jpg) !important; 
     background-size:cover !important;
 }
 #user-profile-modal .avatar-wrapper {
